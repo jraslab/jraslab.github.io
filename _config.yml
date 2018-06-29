@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+remote_theme: "mmistakes/minimal-mistakes"
 title: JRasLab
 description: Homepage of the Rasmussen lab at UW
 logo: images/scales-krt4-YB.png 
