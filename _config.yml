@@ -265,7 +265,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false #changed by JR
       comments: # true
       share: true
-      related: true
+      related: false #changed by JR
