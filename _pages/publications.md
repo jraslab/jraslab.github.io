@@ -2,6 +2,12 @@
 layout: single
 author_profile: false
 permalink: /publications/
+excerpt: "This post should display a **header with an overlay image**, if the  theme supports it."
+header:
+  overlay_image: /assets/images/unsplash-image-1.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  cta_label: "More Info"
+  cta_url: "https://unsplash.com"
 ---
 ## Postdoc publications from the [Sagasti lab](https://www.mcdb.ucla.edu/Research/Sagasti/Sagasti_lab_home.html)
 * **Rasmussen JP**, Vo NT, Sagasti A. Fish scales dictate the pattern of adult skin innervation and vascularization. *Accepted at Dev Cell*.
