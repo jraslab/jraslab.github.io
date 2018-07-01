@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 author_profile: false
 permalink: /people/
 excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
