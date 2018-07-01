@@ -3,13 +3,29 @@ layout: default
 author_profile: true
 permalink: /publications/
 ---
-## Postdoc publications from the Sagasti lab
+### Postdoc publications from the Sagasti lab
 * **Rasmussen JP**, Vo NT, Sagasti A. Fish scales dictate the pattern of adult skin innervation and vascularization. *Accepted at Dev Cell*.
 * **Rasmussen JP**, Sagasti A. Learning to swim, again: Axon regeneration in fish.  *Exp Neurol*. 2017 Jan;287(Pt 3):318-330. PubMed PMID: [26940084](http://www.ncbi.nlm.nih.gov/pubmed/26940084).
 * **Rasmussen JP**, Sack GS, Martin SM, Sagasti A. Vertebrate epidermal cells are broad-specificity phagocytes that clear sensory axon debris. *J Neurosci*. 2015 Jan 14;35(2):559-70. PubMed PMID: [25589751](http://www.ncbi.nlm.nih.gov/pubmed/25589751).
 
-## Grad school publications from the Priess lab
+### Grad school publications from the Priess lab
 * **Rasmussen JP**, Feldman JL, Reddy SS, Priess JR. Cell interactions and patterned intercalations shape and link epithelial tubes in *C. elegans*. <i>PLoS Genet</i>.  2013;9(9):e1003772. PubMed PMID: [24039608](http://www.ncbi.nlm.nih.gov/pubmed/24039608)
 * **Rasmussen JP**, Reddy SS, Priess JR. Laminin is required to orient epithelial polarity in the *C. elegans* pharynx. *Development*. 2012 Jun;139(11):2050-60. PubMed PMID: [22535412](http://www.ncbi.nlm.nih.gov/pubmed/22535412).
 * **Rasmussen JP**, English K, Tenlen JR, Priess JR. Notch signaling and
 morphogenesis of single-cell tubes in the *C. elegans* digestive tract. *Dev Cell*. 2008 Apr;14(4):559-69. PubMed PMID: [18410731](http://www.ncbi.nlm.nih.gov/pubmed/18410731).
+
+### Post-bac publications from the Rudensky lab
+* Chong MM, **Rasmussen JP**, Rudensky AY, Littman DR. The RNAseIII enzyme Drosha is critical in T cells for preventing lethal inflammatory disease. *J Exp Med*. 2008 Sep 1;205(9):2005-17. PubMed PMID: [18725527](http://www.ncbi.nlm.nih.gov/pubmed/18725527).
+* Liston A, Nutsch KM, Farr AG, Lund JM, **Rasmussen JP**, Koni PA, Rudensky AY. Differentiation of regulatory Foxp3+ T cells in the thymic cortex. *Proc Natl Acad Sci U S A*. 2008 Aug 19;105(33):11903-8. PubMed PMID: [18695219](http://www.ncbi.nlm.nih.gov/pubmed/18695219).
+* Rubtsov YP, **Rasmussen JP**, Chi EY, Fontenot J, Castelli L, Ye X, Treuting P, Siewe L, Roers A, Henderson WR Jr, Muller W, Rudensky AY. Regulatory T
+cell-derived interleukin-10 limits inflammation at environmental interfaces.
+*Immunity*. 2008 Apr;28(4):546-58. PubMed PMID: [18387831](http://www.ncbi.nlm.nih.gov/pubmed/18387831).
+* Lu LF, Gavin MA, **Rasmussen JP**, Rudensky AY. G protein-coupled receptor 83 is dispensable for the development and function of regulatory T cells. *Mol Cell Biol*. 2007 Dec;27(23):8065-72. PubMed PMID: [17893329](http://www.ncbi.nlm.nih.gov/pubmed/17893329).
+* Denning TL, Granger SW, Mucida D, Graddy R, Leclercq G, Zhang W, Honey K,
+**Rasmussen JP**, Cheroutre H, Rudensky AY, Kronenberg M. Mouse TCRalphabeta+CD8alphaalpha intraepithelial lymphocytes express genes that
+down-regulate their antigen reactivity and suppress immune responses. *J Immunol*. 2007 Apr 1;178(7):4230-9. PubMed PMID: [17371979]http://www.ncbi.nlm.nih.gov/pubmed/17371979).
+* Gavin MA, **Rasmussen JP**, Fontenot JD, Vasta V, Manganiello VC, Beavo JA, Rudensky AY. Foxp3-dependent programme of regulatory T-cell differentiation.
+*Nature*. 2007 Feb 15;445(7129):771-5. PubMed PMID: [17220874](http://www.ncbi.nlm.nih.gov/pubmed/17220874).
+* Kim JM, **Rasmussen JP**, Rudensky AY. Regulatory T cells prevent catastrophic autoimmunity throughout the lifespan of mice. *Nat Immunol*. 2007 Feb;8(2):191-7. PubMed PMID: [17136045](http://www.ncbi.nlm.nih.gov/pubmed/17136045).
+* Fontenot JD, **Rasmussen JP**, Gavin MA, Rudensky AY. A function for interleukin 2 in Foxp3-expressing regulatory T cells. *Nat Immunol*. 2005 Nov;6(11):1142-51. PubMed PMID: [16227984](http://www.ncbi.nlm.nih.gov/pubmed/16227984).
+* Fontenot JD, **Rasmussen JP**, Williams LM, Dooley JL, Farr AG, Rudensky AY. Regulatory T cell lineage specification by the forkhead transcription factor foxp3. *Immunity*. 2005 Mar;22(3):329-41. PubMed PMID: [15780990](http://www.ncbi.nlm.nih.gov/pubmed/15780990).
