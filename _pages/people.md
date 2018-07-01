@@ -9,8 +9,6 @@ header:
   cta_label: "More Info"
   cta_url: "https://unsplash.com"
 ---
-
-![Fish Scales](/assets/images/scales-krt4-YB.png)
 I grew up in Ithaca, NY and received a BS in Computational Biology from Brown University. I then joined [Alexander Rudensky’s](https://www.mskcc.org/research-areas/labs/alexander-rudensky) group at the University of Washington in Seattle, where I studied the development of regulatory T cells as a post-bac. 
 
 I continued my interest in developmental biology as a graduate student in [Jim Priess’](http://research.fhcrc.org/priess/en.html) lab at the Fred Hutchinson Cancer Research Center, where I discovered novel mechanisms of epithelial tube formation in *C. elegans* embryos.
