@@ -1,6 +1,6 @@
 ---
-layout: default
-author_profile: true
+layout: single
+author_profile: false
 permalink: /publications/
 ---
 ## Postdoc publications from the [Sagasti lab](https://www.mcdb.ucla.edu/Research/Sagasti/Sagasti_lab_home.html)
