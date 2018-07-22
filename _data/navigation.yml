@@ -6,7 +6,7 @@ main:
     url: /people/
   - title: "Pubs"
     url: /publications/
-  - title: "UW Biology"
-    url: https://www.biology.washington.edu/
+    #- title: "UW Biology"
+    #url: https://www.biology.washington.edu/
   # - title: "Sitemap"
   #   url: /sitemap/
