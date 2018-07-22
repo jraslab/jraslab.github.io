@@ -18,7 +18,7 @@ targets following damage. Nerve regeneration not only promotes the restoration o
 neuronal function, but is also required for tissue regeneration in diverse contexts.
 
 ## Why zebrafish skin?
-![image-right](/assets/images/Fig3-scales-rni.png){: .align-right} The skin is densely innervated and uniquely accessible for observation, biopsy and 
+![image-right](/assets/images/Fig3-scales-rni-300.png){: .align-right} The skin is densely innervated and uniquely accessible for observation, biopsy and 
 experimentation, making it an excellent model for examining regeneration and repair. 
 Although the skin and its appendages have remarkable growth and regenerative potential, 
 sensory repair in humans is often incomplete following skin injury, and sensory loss is a 
@@ -48,7 +48,7 @@ possibility that skin appendages may provide a general mechanism for patterning
 innervation during organogenesis.
 
 ## Project 2: How do skin phagocytes contribute to tissue repair?
-![image-right](/assets/images/Fig1-phago-v3.png){: .align-right}The skin is our largest sensory organ, and axons that innervate the skin are frequently 
+![image-right](/assets/images/Fig1-phago-v3-300.png){: .align-right}The skin is our largest sensory organ, and axons that innervate the skin are frequently 
 damaged. Removal of cellular debris is essential for tissue repair, but the mechanisms 
 used to repair sensory endings are not well understood. By using live imaging and laser 
 axotomy in larval zebrafish, I made the unexpected finding that keratinocytes, not 
