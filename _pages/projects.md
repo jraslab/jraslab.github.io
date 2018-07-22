@@ -11,6 +11,7 @@
    cta_label: #"More Info"
    cta_url: #"https://unsplash.com"
 ---
+## The big picture
 I am broadly interested in the mechanisms that promote nerve and tissue plasticity during 
 development and following injury. Nerves have an extraordinary ability to adapt to 
 dramatic changes in their target territories as organs grow and mature during 
