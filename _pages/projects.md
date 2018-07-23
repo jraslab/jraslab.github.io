@@ -14,7 +14,7 @@
 ## The big picture
 How organisms establish and maintain complex cellular architectures is a fundamental 
 problem in biology. Our skin is a sensory organ innervated by a fascinating array of 
-intricately patterned axon endings of somatosensory neurons. Loss of sensory function in the skin is debilitating and associated with common genetic and acquired disorders, such as Charcot-Marie-Tooth disease and diabetic peripheral neuropathy. Thus, understanding the fundamental cellular and molecular mechanisms involved in somatosensory axon development and repair will have important disease implications.
+intricately patterned somatosensory axon endings. Loss of sensory function in the skin is debilitating and associated with common genetic and acquired disorders, such as Charcot-Marie-Tooth disease and diabetic peripheral neuropathy. Thus, understanding the fundamental cellular and molecular mechanisms involved in somatosensory axon development and repair will have important disease implications.
 
 ## Why zebrafish skin?
 Whereas many of the key events in skin organogenesis occur *in utero* in mammals -- making them relatively inaccessible -- the external development of zebrafish allows for facile observation and manipulation of maturing skin. The Rasmussen lab has developed the zebrafish skin as a powerful genetic system to study nerve remodeling in a 
