@@ -5,7 +5,7 @@ author_profile: false
 permalink: /people/
 excerpt: #"This post should display a **header with an overlay image**, if the theme supports it."
 header:
-  overlay_color: "#FF00CC"
+  #overlay_color: "#FF00CC"
   overlay_image: /assets/images/header-baby-scales.png
   caption: #"Photo credit: [**Unsplash**](https://unsplash.com)"
   cta_label: #"More Info"

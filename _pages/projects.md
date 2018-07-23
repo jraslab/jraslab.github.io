@@ -5,7 +5,7 @@
  permalink: /projects/
  excerpt: #"This post should display a **header with an overlay image**, if the  theme supports    it."
  header:
-   overlay_color: "#33FF66"
+   #overlay_color: "#33FF66"
    overlay_image: /assets/images/header-nbt.png
    caption: #"Photo credit: [**Unsplash**](https://unsplash.com)"
    cta_label: #"More Info"
