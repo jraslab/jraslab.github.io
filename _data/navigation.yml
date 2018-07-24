@@ -8,5 +8,7 @@ main:
     url: /publications/
   - title: "News"
     url: /news/
+  - title: "Contact"
+    url: /contact/
   # - title: "Sitemap"
   #   url: /sitemap/
