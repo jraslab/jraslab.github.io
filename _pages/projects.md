@@ -4,6 +4,7 @@
  toc: true
  toc_label: "Projects"
  toc_icon: "flask"
+ toc_sticky: true
  author_profile: false
  permalink: /projects/
  excerpt: #"This post should display a **header with an overlay image**, if the  theme supports    it."
