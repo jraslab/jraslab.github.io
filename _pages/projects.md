@@ -2,6 +2,8 @@
  title: "Projects"
  layout: single
  toc: true
+ toc_label: "Projects"
+ toc_icon: "flask"
  author_profile: false
  permalink: /projects/
  excerpt: #"This post should display a **header with an overlay image**, if the  theme supports    it."
