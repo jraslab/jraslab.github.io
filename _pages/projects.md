@@ -1,6 +1,7 @@
 ---
  title: "Projects"
  layout: single
+ toc: true
  author_profile: false
  permalink: /projects/
  excerpt: #"This post should display a **header with an overlay image**, if the  theme supports    it."
