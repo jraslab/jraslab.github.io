@@ -14,7 +14,7 @@ header:
 ## Location
 ![lsb](/assets/images/lsb.png){: .align-right} The Rasmussen lab will be located on the beautiful [University of Washington](http://www.washington.edu/about/) campus in [Seattle](https://en.wikipedia.org/wiki/Seattle). The lab will be housed on the third floor of the new [Life Sciences Building](https://artsci.washington.edu/campaign/life-sciences-complex).
 
-The lab will share space with the [Cabernard](https://www.cabernardlab.org/), [Parrish](http://theparrishlab.com/), [Paredez](http://paredezlab.biology.washington.edu/) and [Wakimoto](https://www.biology.washington.edu/people/profile/barbara-wakimoto) labs, making for a fantastic and collegial environment!
+The lab will share space with the [Cabernard](https://www.cabernardlab.org/), [Paredez](http://paredezlab.biology.washington.edu/), [Parrish](http://theparrishlab.com/)  and [Wakimoto](https://www.biology.washington.edu/people/profile/barbara-wakimoto) labs, making for an interactive and collegial environment!
 
 ## Contact info
 You can reach Jeff at ![contact](/assets/images/contact.png)
