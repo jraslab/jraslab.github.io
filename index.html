@@ -38,19 +38,13 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
-
-The lab is looking for enthusiastic and hard-working scientists at all levels! If you are interested in joining the lab, please send a short introductory email along with your CV to Jeff.
-{: .notice--warning}
-
 {% capture notice-text %}
-You can also add the `.notice` class to a `<div>` element.
-
-* Bullet point 1
-* Bullet point 2
+The lab is looking for enthusiastic and hard-working scientists at all levels! If you are interested in joining the lab, please send a short introductory email along with your CV to Jeff.
 {% endcapture %}
 
-<div class="notice--info">
-  <h4>Notice Headline:</h4>
+<div class="notice--warning">
   {{ notice-text | markdownify }}
 </div>
+
+{% include feature_row %}
+
