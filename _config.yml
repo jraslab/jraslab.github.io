@@ -265,8 +265,8 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false #changed by JR
       read_time: false #changed by JR
       comments: # true
-      share: true
+      share: false #changed by JR
       related: false #changed by JR
