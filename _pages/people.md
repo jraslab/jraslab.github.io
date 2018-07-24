@@ -19,5 +19,5 @@ I continued my interest in developmental biology as an [MCB](https://depts.washi
 As a postdoc in [Alvaro Sagasti’s](https://www.mcdb.ucla.edu/Research/Sagasti/Sagasti_lab_home.html) lab at UCLA, I focused on how sensory axons in the skin remodel in the face of a constantly changing tissue environment. My postdoctoral studies were supported by the [Jane Coffin Childs Memorial Fund](http://www.jccfund.org/) and a [K99/R00](https://projectreporter.nih.gov/project_info_description.cfm?aid=9229568&icde=38773434) award. Outside of lab, I enjoy running – for exercise and to keep up with my kids.
 
 ## Want to join the lab?
-The lab is looking for enthusiastic and hard-working scientists at all levels! If you are interested in joining the lab, please send a short introductory email along with your CV to Jeff.
-{: .notice--warning}
+**The lab is looking for enthusiastic and hard-working scientists at all levels!** If you are interested in joining the lab, please send a short introductory email along with your CV to Jeff.
+{: .notice--danger}
