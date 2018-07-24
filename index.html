@@ -10,8 +10,8 @@ header:
   cta_url: #"https://github.com/mmistakes/minimal-mistakes/"
   caption: #"Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: #""
-intro: 
-- excerpt: 'Welcome to the homepage of the Rasmussen Lab @ [UW Biology](https://www.biology.washington.edu/)<br> Launching Fall 2018!<br>'
+#intro: 
+#- excerpt: 'Welcome to the homepage of the Rasmussen Lab @ [UW Biology](https://www.biology.washington.edu/)<br> Launching Fall 2018!<br>'
 feature_row:
   - image_path: assets/images/splash-axons-vessels-600.png
     image_caption: #"Image courtesy of [Unsplash](https://unsplash.com/)"
@@ -35,8 +35,18 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
+{% capture intro-text %}
 
-{% include feature_row id="intro" type="center" %}
+Welcome to the homepage of the Rasmussen Lab @ [UW Biology](https://www.biology.washington.edu/)
+
+Launching Fall 2018!
+{% endcapture %}
+
+<div style="text-align:center">
+  {{ intro-text | markdownify }}
+</div>
+
+---
 
 {% capture notice-text %}
 **The lab is looking for enthusiastic and hard-working scientists at all levels!** 
