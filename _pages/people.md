@@ -11,7 +11,7 @@ header:
   cta_label: #"More Info"
   cta_url: #"https://unsplash.com"
 ---
-## Jeff Rasmussen, PhD
+## Jeff Rasmussen, PhD – [WRF](http://www.wrfseattle.org/) Distinguished Investigator
 ![image-left](https://www.biology.washington.edu/sites/default/files/styles/portrait/public/JeffRas-Headshot-UWBiol.jpg){: .align-left} I grew up in Ithaca, NY and received a BS in Computational Biology from Brown University. I then joined [Alexander Rudensky’s](https://www.mskcc.org/research-areas/labs/alexander-rudensky) group at the University of Washington in Seattle, where I studied the development of regulatory T cells as a post-bac. 
 
 I continued my interest in developmental biology as an [MCB](https://depts.washington.edu/mcb/) graduate student in [Jim Priess’](http://research.fhcrc.org/priess/en.html) lab at the Fred Hutchinson Cancer Research Center, where I discovered novel mechanisms of epithelial tube formation in *C. elegans* embryos.

@@ -20,7 +20,7 @@ The lab will share space with the [Cabernard](https://www.cabernardlab.org/), [P
 You can reach Jeff at ![contact](/assets/images/contact.png)
 
 ## Shipping address
-Rasmussen Lab
-Department of Biology
-LSB, 4000 15th Ave NE
+Rasmussen Lab\s\s
+Department of Biology\s\s
+LSB, 4000 15th Ave NE\s\s
 Seattle, WA 98195
