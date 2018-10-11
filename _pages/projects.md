@@ -22,7 +22,7 @@ intricately patterned somatosensory axon endings. Loss of sensory function in th
 
 ## Why zebrafish skin?
 Whereas many of the key events in skin organogenesis occur *in utero* in mammals -- making them relatively inaccessible -- the external development of zebrafish allows for facile observation and manipulation of maturing skin. The Rasmussen lab has developed the zebrafish skin as a powerful genetic system to study nerve remodeling in a 
-living vertebrate with single-cell resolution. Since zebrafish can regenerate almost any adult structure ([Rasmussen and Sagasti, 2017](http://www.ncbi.nlm.nih.gov/pubmed/26940084)), they are an excellent system for identifying mechanisms of successful 
+living vertebrate with single-cell resolution. Since zebrafish can regenerate almost any adult structure ([Rasmussen and Sagasti, 2017](https://doi.org/10.1016/j.expneurol.2016.02.022)), they are an excellent system for identifying mechanisms of successful 
 tissue repair. 
 
 ## Project 1: How is vertebrate skin innervation patterned?
@@ -36,7 +36,7 @@ axon endings in adult skin. Adult sensory nerves contain Schwann cells, blood ve
 osteoblasts, and a subset of dermal osteoblasts independently guide nerves 
 and blood vessels during development and regeneration. By preventing scale regeneration 
 and examining mutants lacking scales, we showed that scales coordinate axon remodeling and 
-skin maturation ([Rasmussen et al., 2018](https://www.cell.com/developmental-cell/fulltext/S1534-5807(18)30504-5)). Since many animals have regularly spaced dermal appendages related to scales, these results raise the intriguing possibility that skin appendages may provide a general mechanism for patterning 
+skin maturation ([Rasmussen et al., 2018](https://doi.org/10.1016/j.devcel.2018.06.019)). Since many animals have regularly spaced dermal appendages related to scales, these results raise the intriguing possibility that skin appendages may provide a general mechanism for patterning 
 innervation during organogenesis.
 
 ## Project 2: How do skin phagocytes contribute to tissue repair?
@@ -45,7 +45,7 @@ damaged. Removal of cellular debris is essential for tissue repair, but the mech
 used to repair sensory endings are not well understood. By using live imaging and laser 
 axotomy in larval zebrafish, we made the unexpected finding that keratinocytes, not 
 macrophages, eat axon debris following injury (see figure). Keratinocytes eat several 
-additional types of cellular debris ([Rasmussen et al., 2015](http://www.ncbi.nlm.nih.gov/pubmed/25589751)), 
+additional types of cellular debris ([Rasmussen et al., 2015](https://doi.org/10.1523/JNEUROSCI.3613-14.2015)), 
 suggesting that keratinocyte phagocytosis may play a broad, yet underappreciated, role in 
 tissue repair. We are currently extending these studies to understand the cellular and molecular mechanisms that regulate axon removal in the more complex adult skin.
 
