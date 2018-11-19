@@ -1,6 +1,10 @@
 ---
 title: "People"
 layout: single
+toc: true
+toc_label: "People"
+toc_icon: "portrait"
+toc_sticky: true
 author_profile: false
 permalink: /people/
 excerpt: #"This post should display a **header with an overlay image**, if the theme supports it."
