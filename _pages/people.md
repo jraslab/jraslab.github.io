@@ -26,11 +26,12 @@ As a postdoc in [Alvaro Sagasti’s](https://www.mcdb.ucla.edu/Research/Sagasti/
 ![image-left](/assets/images/Emma-web.jpg){: .align-left} Emma was raised in the Pacific Northwest and loved it so much she decided to stick around for college and now for post undergrad work. She received two degrees from the University of Washington, one in Biochemistry and the other in Molecular, Cellular and Developmental Biology. She has plans to attend graduate school in the future, but she is currently continuing her stay at UW as a lab tech on Jeff Rasmussen's team investigating epidermal interactions with axons. Outside of academia, her hobbies include singing/songwriting, anything crafty, and snowboarding as much as possible. 
 
 ## Christine Dien – Undergraduate Researcher
-![image-left](/assets/images/Christine-web.jpg){: .align-left} Christine grew up in Pacific Northwest and is currently a sophomore planning to major in Molecular, Cellular, and Developmental Biology! Her project in the lab investigates what molecules and pathways that control the interactions between skin cells and sensory nerve endings with RNAseq analysis techniques. She is also interested in finding similarities between zebrafish and mammalian sensory neurons. Outside of lab, Christine enjoys drawing, painting, 3D modeling, and baking! 
+![image-left](/assets/images/Christine-web.jpg){: .align-left} Christine grew up in Pacific Northwest and is currently a sophomore planning to major in Molecular, Cellular, and Developmental Biology! Her project in the lab investigates what molecules and pathways control the interactions between skin cells and sensory nerve endings with RNAseq analysis techniques. She is also interested in finding similarities between zebrafish and mammalian sensory neurons. Outside of lab, Christine enjoys drawing, painting, 3D modeling, and baking! 
 
 ## Ethan White – Undergraduate Researcher
 ![image-left](/assets/images/Ethan-web.jpg){: .align-left} Ethan is undergraduate here at the University of Washington studying Biochemistry. His future plans include graduating spring 2020 and attending graduate school. His project studies Langerhans Cells within the zebrafish epidermis and their effect on tissue repair. Outside of the lab he loves to play saxophone, soccer, and read science fiction novels.
 
+&nbsp;
 
 ## Want to join the lab?
 **The lab is looking for enthusiastic and hard-working scientists at all levels!** Grad students should apply through the [Biology](https://www.biology.washington.edu/programs/graduate) or [MCB](http://mcb-seattle.edu/) graduate programs. Interested postdocs should send a short introductory email along with your CV to Jeff. 
