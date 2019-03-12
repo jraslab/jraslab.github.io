@@ -1,6 +1,8 @@
 ---
 title: "2019 NICHD Networking Workshop"
-teaser: /assets/images/Jeff-Michael-Barresi.jpg
+#teaser: /assets/images/Jeff-Michael-Barresi.jpg
+image:
+  feature: /assets/images/Jeff-Michael-Barresi.jpg
 categories:
 #  - Post Formats
 tags:
