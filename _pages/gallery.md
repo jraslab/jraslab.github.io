@@ -23,4 +23,4 @@ gallery:
     title: "Image 4 title"
 ---
 
-{% include gallery class="full %}
+{% include gallery class="full" %}
