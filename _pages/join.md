@@ -6,7 +6,7 @@ toc_label: "People"
 toc_icon: "portrait"
 toc_sticky: true
 author_profile: false
-permalink: /people/
+permalink: /join/
 excerpt: #"This post should display a **header with an overlay image**, if the theme supports it."
 header:
   #overlay_color: "#FF00CC"
