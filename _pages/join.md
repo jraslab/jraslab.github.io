@@ -10,13 +10,13 @@ permalink: /join/
 excerpt: #"This post should display a **header with an overlay image**, if the theme supports it."
 header:
   #overlay_color: "#FF00CC"
-  overlay_image: /assets/images/header-baby-scales.png
+  overlay_image: /assets/images/header-axon-cages.jpg
   caption: #"Photo credit: [**Unsplash**](https://unsplash.com)"
   cta_label: #"More Info"
   cta_url: #"https://unsplash.com"
 ---
 ## Lab environment
-The lab takes a tailored mentorship approach and provides a variety of opportunities for trainees to present their work both within the department and to broader audiences. 
+We take a growth mindset approach to mentorship. The lab strives to create a tailored environment to foster trainee development. Through interactions with the amazing Development Biology community in Seattle, trainees have a variety of opportunities to present their work both within the department and to broader audiences. 
 
 ## Postdoctoral fellows
 The lab is actively recruiting postdocs. Interested candidates should send a brief cover letter and CV to Jeff ![contact](/assets/images/contact.png)
@@ -28,7 +28,7 @@ Grad students should apply through the [Biology](https://www.biology.washington.
 * Imaging tissue and nerve regeneration 
 
 ## Research technicians
-Please check back. Future openings will be posted here.
+Please check back soon. Future openings will be posted here.
 
 ## Undergraduate students
-We are currently looking for summer students. Preference will be given to applicants who can work full-time. 
+We are currently looking for summer students. Preference will be given to applicants who can work full-time (>30 hrs/week). 
