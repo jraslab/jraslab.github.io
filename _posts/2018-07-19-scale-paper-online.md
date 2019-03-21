@@ -1,5 +1,5 @@
 ---
-title: "Fish scale paper online at Dev Cell!"
+title: "Fish scale paper online at *Dev Cell*!"
 categories:
 #  - Post Formats
 tags:

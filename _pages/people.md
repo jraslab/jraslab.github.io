@@ -35,5 +35,5 @@ Elgene is a senior majoring in Biochemistry and Biology (Molecular, Cellular & D
 ![image-left](/assets/images/Ethan-web.jpg){: .align-left} Ethan is an undergraduate at the University of Washington studying Biochemistry. His future plans include graduating spring 2020 and attending graduate school. His project studies Langerhans Cells within the zebrafish epidermis and their effect on tissue repair. Outside of the lab he loves to play saxophone, soccer, and read science fiction novels.
 
 ## Want to join the lab?
-**The lab is looking for enthusiastic and hard-working scientists at all levels!** Grad students should apply through the [Biology](https://www.biology.washington.edu/programs/graduate) or [MCB](http://mcb-seattle.edu/) graduate programs. Interested postdocs should send a short introductory email along with your CV to Jeff. 
+**The lab is looking for enthusiastic and hard-working scientists at all levels! [Find out more](/join/).** 
 {: .notice--danger}

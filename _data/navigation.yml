@@ -8,6 +8,10 @@ main:
     url: /publications/
   - title: "News"
     url: /news/
+  - title: "Join"
+    url: /join/
+  - title: "Gallery"
+    url: /gallery/
   - title: "Contact"
     url: /contact/
   # - title: "Sitemap"
