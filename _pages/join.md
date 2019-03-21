@@ -2,8 +2,8 @@
 title: "Join"
 layout: single
 toc: true
-toc_label: "People"
-toc_icon: "portrait"
+toc_label: "Positions"
+toc_icon: "microscope"
 toc_sticky: true
 author_profile: false
 permalink: /join/
