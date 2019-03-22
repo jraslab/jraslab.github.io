@@ -16,7 +16,7 @@ header:
   cta_url: #"https://unsplash.com"
 ---
 ## Lab environment
-We take a growth mindset approach to mentorship. The lab strives to create a tailored environment to foster trainee development. Through interactions with the amazing Development Biology community in Seattle, trainees have a variety of opportunities to present their work both within the department and to broader audiences. 
+We take a growth mindset approach to mentorship and aim to tailor the training environment to individual trainee's goals. Lab members have a variety of opportunities to present their work and network within the broad Development Biology community in Seattle. 
 
 ## Postdoctoral fellows
 The lab is actively recruiting postdocs. Interested candidates should send a brief cover letter and CV to Jeff ![contact](/assets/images/contact.png)
@@ -24,7 +24,7 @@ The lab is actively recruiting postdocs. Interested candidates should send a bri
 ## Graduate students
 Grad students should apply through the [Biology](https://www.biology.washington.edu/programs/graduate), [MCB](http://mcb-seattle.edu/), or [Neuroscience](http://depts.washington.edu/neurogrd/) programs. Students interested in the lab are encouraged to contact Jeff prior to applying. Potential rotation projects currently include:
 * Developmental patterning of sensory structures
-* RNAseq profiling of skin cell types in mutant backgrounds
+* RNAseq profiling of skin cell types in various genetic backgrounds
 * Imaging tissue and nerve regeneration 
 
 ## Research technicians
