@@ -1,5 +1,5 @@
 ---
-title: "Join the team"
+title: "Join"
 layout: single
 toc: true
 toc_label: "Positions"
