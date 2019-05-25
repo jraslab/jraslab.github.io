@@ -15,7 +15,8 @@ Parker E, Vaughan J, Sagasti A, Parrish JZ. A conserved morphogenetic mechanism 
 epidermal ensheathment of nociceptive sensory neurites. *eLife* 2019;8:e42455. Pubmed PMID: [30855229](https://www.ncbi.nlm.nih.gov/pubmed/30855229).
 * **Rasmussen JP**, Vo NT, Sagasti A. Fish scales dictate the pattern of adult skin innervation and vascularization. *Dev Cell*. 2018 Aug 6;46(3):344-359.e4. PubMed PMID: [30032992](https://www.ncbi.nlm.nih.gov/pubmed/30032992).
     * Highlight: [Scales Radi(i)cally Remodel Sensory Axons and Vasculature](https://www.ncbi.nlm.nih.gov/pubmed/30086298).
-    * [Teenage Mutant Zebrafish: Scales Transform the Skin as Fish Grow Into Adulthood](https://kids.frontiersin.org/article/10.3389/frym.2019.00064).
+    * Sagasti A and **Rasmussen JP**. [Teenage Mutant Zebrafish: Scales
+Transform the Skin as Fish Grow Into Adulthood.](https://kids.frontiersin.org/article/10.3389/frym.2019.00064) *Front. Young Minds** 2019;7:64.
 * **Rasmussen JP**, Sagasti A. Learning to swim, again: Axon regeneration in fish.  *Exp Neurol*. 2017 Jan;287(Pt 3):318-330. PubMed PMID: [26940084](http://www.ncbi.nlm.nih.gov/pubmed/26940084).
 * **Rasmussen JP**, Sack GS, Martin SM, Sagasti A. Vertebrate epidermal cells are broad-specificity phagocytes that clear sensory axon debris. *J Neurosci*. 2015 Jan 14;35(2):559-70. PubMed PMID: [25589751](http://www.ncbi.nlm.nih.gov/pubmed/25589751).
     * Highlight: [Skin cells clear neuronal debris](http://www.nature.com/nrn/journal/v16/n3/full/nrn3928.html).
