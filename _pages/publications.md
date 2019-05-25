@@ -12,7 +12,7 @@ header:
 ---
 * Jiang N, **Rasmussen JP**, Clanton JA, Rosenberg MF, Luedke K, Cronan MR,
 Parker E, Vaughan J, Sagasti A, Parrish JZ. A conserved morphogenetic mechanism for
-epidermal ensheathment of nociceptive sensory neurites. [*eLife*](https://doi.org/10.7554/eLife.42455) 2019;8:e42455. Pubmed PMID: [30855229](https://www.ncbi.nlm.nih.gov/pubmed/30855229).
+epidermal ensheathment of nociceptive sensory neurites. *eLife* 2019;8:e42455. Pubmed PMID: [30855229](https://www.ncbi.nlm.nih.gov/pubmed/30855229).
 * **Rasmussen JP**, Vo NT, Sagasti A. Fish scales dictate the pattern of adult skin innervation and vascularization. *Dev Cell*. 2018 Aug 6;46(3):344-359.e4. PubMed PMID: [30032992](https://www.ncbi.nlm.nih.gov/pubmed/30032992).
     * Commentary: [Scales Radi(i)cally Remodel Sensory Axons and Vasculature](https://www.ncbi.nlm.nih.gov/pubmed/30086298).
     * [Teenage Mutant Zebrafish: Scales Transform the Skin as Fish Grow Into Adulthood](https://kids.frontiersin.org/article/10.3389/frym.2019.00064).
