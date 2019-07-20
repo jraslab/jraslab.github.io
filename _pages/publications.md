@@ -13,7 +13,7 @@ header:
 * Cokus SJ, De La Torre M, Medina EF, **Rasmussen JP**, Ramirez-Gutierrez J, Sagasti A, Wang F. Tissue-specific transcriptomes reveal gene expression trajectories in two maturing skin epithelial layers in zebrafish embryos. *Submitted.*
 * Jiang N, **Rasmussen JP**, Clanton JA, Rosenberg MF, Luedke K, Cronan MR,
 Parker E, Vaughan J, Sagasti A, Parrish JZ. A conserved morphogenetic mechanism for
-epidermal ensheathment of nociceptive sensory neurites. *eLife*. 2019;8:e42455. Pubmed PMID: [30855229](https://www.ncbi.nlm.nih.gov/pubmed/30855229). [PDF](assets/pdf/Jiang_Parrish_eLife_2019.pdf).
+epidermal ensheathment of nociceptive sensory neurites. *eLife*. 2019;8:e42455. Pubmed PMID: [30855229](https://www.ncbi.nlm.nih.gov/pubmed/30855229). [[PDF]](assets/pdf/Jiang_Parrish_eLife_2019.pdf)
 * **Rasmussen JP**, Vo NT, Sagasti A. Fish scales dictate the pattern of adult skin innervation and vascularization. *Dev Cell*. 2018 Aug 6;46(3):344-359.e4. PubMed PMID: [30032992](https://www.ncbi.nlm.nih.gov/pubmed/30032992). [PDF](assets/pdf/Rasmussen_Sagasti_DevCell_2018.pdf).
     * Highlight: [Scales Radi(i)cally Remodel Sensory Axons and Vasculature](https://www.ncbi.nlm.nih.gov/pubmed/30086298).
     * Sagasti A, **Rasmussen JP**. [Teenage Mutant Zebrafish: Scales
