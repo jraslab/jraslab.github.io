@@ -10,23 +10,24 @@ header:
   cta_label: #"More Info"
   cta_url: #"https://unsplash.com"
 ---
+* Cokus SJ, De La Torre M, Medina EF, **Rasmussen JP**, Ramirez-Gutierrez J, Sagasti A, Wang F. Tissue-specific transcriptomes reveal gene expression trajectories in two maturing skin epithelial layers in zebrafish embryos. *Submitted.*
 * Jiang N, **Rasmussen JP**, Clanton JA, Rosenberg MF, Luedke K, Cronan MR,
 Parker E, Vaughan J, Sagasti A, Parrish JZ. A conserved morphogenetic mechanism for
-epidermal ensheathment of nociceptive sensory neurites. *eLife*. 2019;8:e42455. Pubmed PMID: [30855229](https://www.ncbi.nlm.nih.gov/pubmed/30855229).
-* **Rasmussen JP**, Vo NT, Sagasti A. Fish scales dictate the pattern of adult skin innervation and vascularization. *Dev Cell*. 2018 Aug 6;46(3):344-359.e4. PubMed PMID: [30032992](https://www.ncbi.nlm.nih.gov/pubmed/30032992).
+epidermal ensheathment of nociceptive sensory neurites. *eLife*. 2019;8:e42455. Pubmed PMID: [30855229](https://www.ncbi.nlm.nih.gov/pubmed/30855229). [PDF](assets/pdf/Jiang_Parrish_eLife_2019.pdf).
+* **Rasmussen JP**, Vo NT, Sagasti A. Fish scales dictate the pattern of adult skin innervation and vascularization. *Dev Cell*. 2018 Aug 6;46(3):344-359.e4. PubMed PMID: [30032992](https://www.ncbi.nlm.nih.gov/pubmed/30032992). [PDF](assets/pdf/Rasmussen_Sagasti_DevCell_2018.pdf).
     * Highlight: [Scales Radi(i)cally Remodel Sensory Axons and Vasculature](https://www.ncbi.nlm.nih.gov/pubmed/30086298).
     * Sagasti A, **Rasmussen JP**. [Teenage Mutant Zebrafish: Scales
 Transform the Skin as Fish Grow Into Adulthood](https://kids.frontiersin.org/article/10.3389/frym.2019.00064). *Front. Young Minds*. 2019;7:64.
-* **Rasmussen JP**, Sagasti A. Learning to swim, again: Axon regeneration in fish.  *Exp Neurol*. 2017 Jan;287(Pt 3):318-330. PubMed PMID: [26940084](http://www.ncbi.nlm.nih.gov/pubmed/26940084).
-* **Rasmussen JP**, Sack GS, Martin SM, Sagasti A. Vertebrate epidermal cells are broad-specificity phagocytes that clear sensory axon debris. *J Neurosci*. 2015 Jan 14;35(2):559-70. PubMed PMID: [25589751](http://www.ncbi.nlm.nih.gov/pubmed/25589751).
+* **Rasmussen JP**, Sagasti A. Learning to swim, again: Axon regeneration in fish.  *Exp Neurol*. 2017 Jan;287(Pt 3):318-330. PubMed PMID: [26940084](http://www.ncbi.nlm.nih.gov/pubmed/26940084). [PDF](assets/pdf/Rasmussen_Sagasti_ExpNeurol_2017.pdf).
+* **Rasmussen JP**, Sack GS, Martin SM, Sagasti A. Vertebrate epidermal cells are broad-specificity phagocytes that clear sensory axon debris. *J Neurosci*. 2015 Jan 14;35(2):559-70. PubMed PMID: [25589751](http://www.ncbi.nlm.nih.gov/pubmed/25589751). [PDF](assets/pdf/Rasmussen_Sagasti_JNeuro_2015.pdf).
     * Highlight: [Skin cells clear neuronal debris](http://www.nature.com/nrn/journal/v16/n3/full/nrn3928.html).
     
 ---
-* **Rasmussen JP**, Feldman JL, Reddy SS, Priess JR. Cell interactions and patterned intercalations shape and link epithelial tubes in *C. elegans*. <i>PLoS Genet</i>.  2013;9(9):e1003772. PubMed PMID: [24039608](http://www.ncbi.nlm.nih.gov/pubmed/24039608)
-* **Rasmussen JP**, Reddy SS, Priess JR. Laminin is required to orient epithelial polarity in the *C. elegans* pharynx. *Development*. 2012 Jun;139(11):2050-60. PubMed PMID: [22535412](http://www.ncbi.nlm.nih.gov/pubmed/22535412).
+* **Rasmussen JP**, Feldman JL, Reddy SS, Priess JR. Cell interactions and patterned intercalations shape and link epithelial tubes in *C. elegans*. <i>PLoS Genet</i>.  2013;9(9):e1003772. PubMed PMID: [24039608](http://www.ncbi.nlm.nih.gov/pubmed/24039608). [PDF](assets/pdf/Rasmussen_Priess_PLoSGen_2013.pdf).
+* **Rasmussen JP**, Reddy SS, Priess JR. Laminin is required to orient epithelial polarity in the *C. elegans* pharynx. *Development*. 2012 Jun;139(11):2050-60. PubMed PMID: [22535412](http://www.ncbi.nlm.nih.gov/pubmed/22535412). [PDF](assets/pdf/Rasmussen_Priess_Dev_2012.pdf).
     * Highlight: [Laminin cue for epithelial polarity](http://dev.biologists.org/content/139/11/e1101).
 * **Rasmussen JP**, English K, Tenlen JR, Priess JR. Notch signaling and
-morphogenesis of single-cell tubes in the *C. elegans* digestive tract. *Dev Cell*. 2008 Apr;14(4):559-69. PubMed PMID: [18410731](http://www.ncbi.nlm.nih.gov/pubmed/18410731).
+morphogenesis of single-cell tubes in the *C. elegans* digestive tract. *Dev Cell*. 2008 Apr;14(4):559-69. PubMed PMID: [18410731](http://www.ncbi.nlm.nih.gov/pubmed/18410731). [PDF](assets/pdf/Rasmussen_Priess_DevCell_2008.pdf).
     * Highlight: [To thine own self be true: self-fusion in single-celled tubes](https://www.ncbi.nlm.nih.gov/pubmed/18410723).
 
 ---
