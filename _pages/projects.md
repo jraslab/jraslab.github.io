@@ -17,9 +17,9 @@
 ---
 ## The big picture
 The Rasmussen lab uses zebrafish to gain molecular and cellular insights into neuronal and tissue plasticity, both during development and following injury. The skin is our largest sensory organ and is densely innervated by somatosensory nerve endings that sense pain and touch. Nerve regeneration is often incomplete following skin injury, and sensory loss is a major complication associated with diabetes and chemotherapy. Using the imaging advantages of the zebrafish system and novel remodeling assays developed in the lab, we have identified interactions between somatosensory nerve endings and several specialized cell types (including osteoblasts, resident macrophages, and mechanosensory cells) within the skin tissue environment. We are currently pursuing the following related projects: 
-(1)	Control of nerve patterning during skin development
-(2)	Genomic and cellular analysis of nerve regrowth following injury 
-(3)	Development, regeneration, and function of mechanosensory cells
+1. Control of nerve patterning during skin development
+2. Genomic and cellular analysis of nerve regrowth following injury 
+3. Development, regeneration, and function of mechanosensory cells
 
 ## Why zebrafish?
 Whereas many of the key events in skin and somatosensory development occur *in utero* in mammals -- making them relatively inaccessible -- the external development of zebrafish allows for facile observation and manipulation of maturing skin. The Rasmussen lab uses the genetic and imaging advantages of zebrafish to study nerve remodeling in a 
