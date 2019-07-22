@@ -20,6 +20,7 @@ The Rasmussen lab uses zebrafish to gain molecular and cellular insights into ne
 1. Control of nerve patterning during skin development
 2. Genomic and cellular analysis of nerve regrowth following injury 
 3. Development, regeneration, and function of mechanosensory cells
+
 ## Why zebrafish?
 Whereas many of the key events in skin and somatosensory development occur *in utero* in mammals -- making them relatively inaccessible -- the external development of zebrafish allows for facile observation and manipulation of maturing skin. The Rasmussen lab uses the genetic and imaging advantages of zebrafish to study nerve remodeling in a 
 living vertebrate with single-cell resolution. Since zebrafish can regenerate almost any adult structure ([Rasmussen and Sagasti, 2017](/assets/pdf/Rasmussen_Sagasti_ExpNeurol_2017.pdf)), they are an excellent system for identifying mechanisms of successful nerve and tissue repair. 
