@@ -10,7 +10,7 @@ header:
   cta_label: #"More Info"
   cta_url: #"https://unsplash.com"
 ---
-* Cokus SJ, De La Torre M, Medina EF, **Rasmussen JP**, Ramirez-Gutierrez J, Sagasti A, Wang F. Tissue-specific transcriptomes reveal gene expression trajectories in two maturing skin epithelial layers in zebrafish embryos. *Submitted.*
+* Cokus SJ, De La Torre M, Medina EF, **Rasmussen JP**, Ramirez-Gutierrez J, Sagasti A, Wang F. Tissue-specific transcriptomes reveal gene expression trajectories in two maturing skin epithelial layers in zebrafish embryos. *G3: Genes, Genomes, Genetics*. ePub August 22, 2019. Pubmed PMID: [31431477](https://www.ncbi.nlm.nih.gov/pubmed/31431477).
 * Jiang N, **Rasmussen JP**, Clanton JA, Rosenberg MF, Luedke K, Cronan MR,
 Parker E, Vaughan J, Sagasti A, Parrish JZ. A conserved morphogenetic mechanism for
 epidermal ensheathment of nociceptive sensory neurites. *eLife*. 2019;8:e42455. Pubmed PMID: [30855229](https://www.ncbi.nlm.nih.gov/pubmed/30855229). [[PDF]](/assets/pdf/Jiang_Parrish_eLife_2019.pdf)
