@@ -25,6 +25,13 @@ As a postdoc in [Alvaro Sagasti’s](https://www.mcdb.ucla.edu/Research/Sagasti/
 ## Emma Horton – Research Technologist
 ![image-left](/assets/images/Emma-web.jpg){: .align-left} Emma was raised in the Pacific Northwest and loved it so much she decided to stick around for college and now for post undergrad work. She received two degrees from the University of Washington, one in Biochemistry and the other in Molecular, Cellular and Developmental Biology. She has plans to attend graduate school in the future, but she is currently continuing her stay at UW as a lab tech on Jeff Rasmussen's team investigating epidermal interactions with axons. Outside of academia, her hobbies include singing/songwriting, anything crafty, and snowboarding as much as possible. 
 
+## Rosalind Bump – MCB rotation student
+![image-left](/assets/images/Rosalind-web.jpg){: .align-left} Rosalind is a first year graduate student in the UW MCB program. She earned her BS in Molecular Environmental Biology from UC Berkeley, where she became fascinated by ecosystem dynamics, public health equity, and tissue regeneration alike. 
+
+After graduation, she moved to San Diego to work in Jesse Dixon's lab at the Salk Institute. There, she delved into the world of chromatin architecture and genomics, riddling through ways to improve the detection and treatment of pediatric leukemias.
+
+Rosalind is thrilled to be in Seattle, and to be back exploring development in a fish model system with the Rasmussen Lab! She’s eager to be hiking new trails, searching for live jazz, and learning as much as she can about somatosensory neurons.
+
 ## Christine Dien – Undergraduate Researcher
 ![image-left](/assets/images/Christine-web.jpg){: .align-left} Christine grew up in the Pacific Northwest and is currently a sophomore planning to major in Molecular, Cellular, and Developmental Biology. Her project in the lab investigates what molecules and pathways control the interactions between skin cells and sensory nerve endings with RNAseq analysis techniques. She is also interested in finding similarities between zebrafish and mammalian sensory neurons. Outside of lab, Christine enjoys drawing, painting, 3D modeling, and baking! 
 
