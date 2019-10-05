@@ -45,7 +45,7 @@ His project studies Langerhans Cells within the zebrafish epidermis and their ef
 
 Outside of the lab he loves to play saxophone, soccer, and read science fiction novels.
 
----
+
 ## Want to join the lab?
 **The lab is looking for enthusiastic and hard-working scientists at all levels! [Find out more](/join/).** 
 {: .notice--danger}
