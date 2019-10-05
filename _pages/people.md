@@ -25,7 +25,7 @@ As a postdoc in [Alvaro Sagasti’s](https://www.mcdb.ucla.edu/Research/Sagasti/
 ## Emma Horton – Research Technologist
 ![image-left](/assets/images/Emma-web.jpg){: .align-left} Emma was raised in the Pacific Northwest and loved it so much she decided to stick around for college and now for post undergrad work. She received two degrees from the University of Washington, one in Biochemistry and the other in Molecular, Cellular and Developmental Biology. She has plans to attend graduate school in the future, but she is currently continuing her stay at UW as a lab tech on Jeff Rasmussen's team investigating epidermal interactions with axons. Outside of academia, her hobbies include singing/songwriting, anything crafty, and snowboarding as much as possible. 
 
-## Rosalind Bump – MCB rotation student
+## Rosalind Bump – MCB Rotation Student
 ![image-left](/assets/images/Rosalind-web.jpg){: .align-left} Rosalind is a first year graduate student in the UW MCB program. She earned her BS in Molecular Environmental Biology from UC Berkeley, where she became fascinated by ecosystem dynamics, public health equity, and tissue regeneration alike. 
 
 After graduation, she moved to San Diego to work in Jesse Dixon's lab at the Salk Institute. There, she delved into the world of chromatin architecture and genomics, riddling through ways to improve the detection and treatment of pediatric leukemias.
@@ -39,7 +39,9 @@ Rosalind is thrilled to be in Seattle, and to be back exploring development in a
 ![image-left](/assets/images/Elgene-web.jpg){: .align-left} Elgene is a senior majoring in Biochemistry and Biology (Molecular, Cellular & Developmental). His project revolves around tool building by constructing genetic reporters for genes suspected to be involved in axon guidance within the zebrafish epidermis.  In his free time, Elgene enjoys a wide variety of things. From attempting to learn new concepts from different scientific disciplines (e.g. quantum mechanics, advanced mathematics etc.) by browsing the internet and reading scientific papers to trivia quizzes, playing videogames, collecting memes and playing the violin. He recently has taken up learning to play the piano and programming with an interest in data science, machine learning and simulations.
 
 ## Ethan White – Undergraduate Researcher
-![image-left](/assets/images/Ethan-web.jpg){: .align-left} Ethan is an undergraduate at the University of Washington studying Biochemistry. His future plans include graduating spring 2020 and attending graduate school. His project studies Langerhans Cells within the zebrafish epidermis and their effect on tissue repair. Outside of the lab he loves to play saxophone, soccer, and read science fiction novels.
+![image-left](/assets/images/Ethan-web.jpg){: .align-left} Ethan is an undergraduate at the University of Washington studying Biochemistry. His future plans include graduating spring 2020 and attending graduate school. 
+
+His project studies Langerhans Cells within the zebrafish epidermis and their effect on tissue repair. Outside of the lab he loves to play saxophone, soccer, and read science fiction novels.
 
 ## Want to join the lab?
 **The lab is looking for enthusiastic and hard-working scientists at all levels! [Find out more](/join/).** 
