@@ -42,7 +42,7 @@ Rosalind is thrilled to be in Seattle, and to be back exploring development in a
 ![image-left](/assets/images/Ethan-web.jpg){: .align-left} Ethan is an undergraduate at the University of Washington studying Biochemistry. His future plans include graduating spring 2020 and attending graduate school. 
 
 His project studies Langerhans Cells within the zebrafish epidermis and their effect on tissue repair. Outside of the lab he loves to play saxophone, soccer, and read science fiction novels.
-
+---
 ## Want to join the lab?
 **The lab is looking for enthusiastic and hard-working scientists at all levels! [Find out more](/join/).** 
 {: .notice--danger}
