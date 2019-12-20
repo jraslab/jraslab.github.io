@@ -12,7 +12,7 @@ header:
   cta_url: #"https://unsplash.com"
 ---
 ## Location
-![lsb](/assets/images/lsb_image002.png){: .align-right} The Rasmussen lab is located on the beautiful [University of Washington](http://www.washington.edu/about/) campus in [Seattle](https://en.wikipedia.org/wiki/Seattle). The lab is on the third floor of the new [Life Sciences Building](https://artsci.washington.edu/campaign/life-sciences-complex).
+![lsb](/assets/images/lsb_image002.png){: .align-right} The Rasmussen lab is located on the beautiful [University of Washington](http://www.washington.edu/about/) campus in [Seattle](https://en.wikipedia.org/wiki/Seattle). The lab is on the third floor of the new [Life Sciences Building](https://artsci.washington.edu/campaign/life-sciences-complex), a short walk from [The Ave](https://en.wikipedia.org/wiki/The_Ave), which has a myriad of [dining options](https://eatingtheave.com/).
 
 The lab shares space with the [Cabernard](https://www.cabernardlab.org/), [Paredez](http://paredezlab.biology.washington.edu/), [Parrish](http://theparrishlab.com/)  and [Wakimoto](https://www.biology.washington.edu/people/profile/barbara-wakimoto) labs, making for an interactive and collegial environment!
 
