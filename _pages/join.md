@@ -33,4 +33,4 @@ Grad students should apply through the [Biology](https://www.biology.washington.
 Please check back soon. Future openings will be posted here.
 
 ## Undergraduate students
-We are currently looking for students to start winter quarter. See our posting in the [URP database](https://expd.uw.edu/expo/opportunities/2505). 
+Please check back after winter quarter. Future openings will be posted here and in the [URP database](https://www.washington.edu/undergradresearch/students/find/). 
