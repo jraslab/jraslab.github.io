@@ -48,7 +48,9 @@ His project studies Langerhans Cells within the zebrafish epidermis and their ef
 Outside of the lab he loves to play saxophone, soccer, and read science fiction novels.
 
 ## Nathaniel Yee – Undergraduate Researcher
-![image-left](/assets/images/Nathaniel-web.jpg){: .align-left} Nathaniel is an undergraduate at the University of Washington who is currently undeclared, but is interested in majoring in biology. His project focuses on understanding the dynamic characteristics of Merkel cells in the epidermal environment of zebrafish.
+![image-left](/assets/images/Nathaniel-web.jpg){: .align-left} Nathaniel is an undergraduate at the University of Washington who is currently undeclared, but is interested in majoring in biology. 
+
+Nathaniel is currently working on understanding the dynamic characteristics of Merkel cells in the epidermal environment of zebrafish.
 
 Outside of lab, Nathaniel enjoys chess, working out, eating really good pasta, and watching football.
 
