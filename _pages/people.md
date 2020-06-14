@@ -25,8 +25,8 @@ As a postdoc in [Alvaro Sagasti’s](https://www.mcdb.ucla.edu/Research/Sagasti/
 ## Tanya Brown, PhD - Postdoctoral Scholar
 ![image-left](/assets/images/Tanya-web.jpg){: .align-left} Tanya attended the University of Washington where she gained her first experience in research as an undergraduate studying dorsal root ganglia development in Dave Raible’s lab. After graduating, Tanya joined John Incardona’s group at the Northwest Fisheries Science Center investigating the impact of the Deepwater Horizon oil spill on cardiac development in pelagic fish species. She then completed her Ph.D. at the University of Colorado Anschutz Medical Campus where she studied oligodendrocyte and myelin development in Wendy Macklin’s lab. She is excited to be back in the pacific northwest as a Husky to learn about the development of Merkel cells. Other than developmental biology, Tanya is also very interested in improving science education. She enjoys running, learning photography, and exploring the outdoors.
 
-## Rosalind Bump – MCB Graduate Student
-![image-left](/assets/images/Rosalind-web.jpg){: .align-left} Rosalind is a first year graduate student in the UW MCB program. She earned her BS in Molecular Environmental Biology from UC Berkeley, where she became fascinated by ecosystem dynamics, public health equity, and tissue regeneration alike. 
+## Rosalind Bump – [MCB](https://depts.washington.edu/mcb/) Graduate Student
+![image-left](/assets/images/Rosalind-web.jpg){: .align-left} Rosalind is a graduate student in the UW MCB program. She earned her BS in Molecular Environmental Biology from UC Berkeley, where she became fascinated by ecosystem dynamics, public health equity, and tissue regeneration alike. 
 
 After graduation, she moved to San Diego to work in Jesse Dixon's lab at the Salk Institute. There, she delved into the world of chromatin architecture and genomics, riddling through ways to improve the detection and treatment of pediatric leukemias.
 
