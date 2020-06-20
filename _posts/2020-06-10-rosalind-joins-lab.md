@@ -1,5 +1,5 @@
 ---
-title: "Rosalind joins the lab as the first grad student!"
+title: "Rosalind joins the lab!"
 categories:
 #  - Post Formats
 tags:
