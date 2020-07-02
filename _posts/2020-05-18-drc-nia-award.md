@@ -1,5 +1,5 @@
 ---
-title: "Jeff receives New Investigator Award!"
+title: "Jeff receives a New Investigator Award from the Diabetes Research Center!"
 categories:
 #  - Post Formats
 tags:
