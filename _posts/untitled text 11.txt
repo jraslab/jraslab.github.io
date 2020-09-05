@@ -1,0 +1,47 @@
+1: Jiang N, Rasmussen JP, Clanton JA, Rosenberg MF, Luedke KP, Cronan MR, Parker 
+ED, Kim HJ, Vaughan JC, Sagasti A, Parrish JZ. A conserved morphogenetic
+mechanism for epidermal ensheathment of nociceptive sensory neurites. Elife. 2019
+Mar 11;8. pii: e42455. doi: 10.7554/eLife.42455. PubMed PMID: 
+https://www.ncbi.nlm.nih.gov/pubmed/30855229
+; PubMed
+Central PMCID: PMC6450671.
+
+
+2: Rasmussen JP, Vo NT, Sagasti A. Fish Scales Dictate the Pattern of Adult Skin 
+Innervation and Vascularization. Dev Cell. 2018 Aug 6;46(3):344-359.e4. doi:
+10.1016/j.devcel.2018.06.019. Epub 2018 Jul 19. PubMed PMID: 
+https://www.ncbi.nlm.nih.gov/pubmed/30032992
+; PubMed
+Central PMCID: PMC6561483.
+
+
+3: Rasmussen JP, Sack GS, Martin SM, Sagasti A. Vertebrate epidermal cells are
+broad-specificity phagocytes that clear sensory axon debris. J Neurosci. 2015 Jan
+14;35(2):559-70. doi: 10.1523/JNEUROSCI.3613-14.2015. PubMed PMID: 
+https://www.ncbi.nlm.nih.gov/pubmed/25589751
+;
+PubMed Central PMCID: PMC4293411.
+
+
+4: Rasmussen JP, English K, Tenlen JR, Priess JR. Notch signaling and
+morphogenesis of single-cell tubes in the C. elegans digestive tract. Dev Cell.
+2008 Apr;14(4):559-69. doi: 10.1016/j.devcel.2008.01.019. PubMed PMID: 
+https://www.ncbi.nlm.nih.gov/pubmed/18410731
+; 
+PubMed Central PMCID: PMC2435507.
+
+
+5: Rasmussen JP, Reddy SS, Priess JR. Laminin is required to orient epithelial
+polarity in the C. elegans pharynx. Development. 2012 Jun;139(11):2050-60. doi:
+10.1242/dev.078360. Epub 2012 Apr 25. PubMed PMID: 
+https://www.ncbi.nlm.nih.gov/pubmed/22535412
+; PubMed Central
+PMCID: PMC3347693.
+
+
+6: Rasmussen JP, Feldman JL, Reddy SS, Priess JR. Cell interactions and patterned
+intercalations shape and link epithelial tubes in C. elegans. PLoS Genet.
+2013;9(9):e1003772. doi: 10.1371/journal.pgen.1003772. Epub 2013 Sep 5. PubMed
+PMID: 
+https://www.ncbi.nlm.nih.gov/pubmed/24039608
+; PubMed Central PMCID: PMC3764189.
