@@ -1,5 +1,5 @@
 ---
-title: "Rosalind awarded a CMB Training Grant!"
+title: "Rosalind awarded a position on the CMB Training Grant!"
 categories:
 #  - Post Formats
 tags:
