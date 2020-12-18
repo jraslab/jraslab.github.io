@@ -1,0 +1,35 @@
+---
+Jeff Rasmussen, Ph.D.
+(he/him)
+Assistant Professor
+Department of Biology
+University of Washington
+https://jraslab.org
+
+email Eric, Rosalind
+email Tanya, Evan
+email Tom Schilling
+
+
+
+
+questions for Ajay
+-------
+
+Is the phagocytic cells similar in mammals?
+Graphic from 
+
+How many animals?
+Can I use NIH grant?
+Logistics of injection and tissue harvest?
+Downstream application IHC cd207 anitobyd image. Lamp1 image
+obtaining tdt reporter mice?
+iacuc amendment?
+what stage to inject?
+What timepoint to analyze? Multiple timepoints?
+
+The numbers of GFP-positive epidermal fibers passing through the epidermis-dermis junction were counted in each image, and values from 15 images taken from the same hindpaw were averaged. n = 4 mice/group.
+
+Cellular Specificity in Glia-Neuron Interactions
+Sneha Ray
+Fred Hutchinson Cancer Research Center, USA
