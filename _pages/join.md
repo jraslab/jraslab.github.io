@@ -12,7 +12,7 @@ header:
   #overlay_color: "#FF00CC"
   #overlay_image: /assets/images/header-axon-cages.jpg
   overlay_image: /assets/images/header-mt-rainier.png
-  caption: "Mount Rainier in summer"
+  caption: #"Mount Rainier in summer"
   cta_label: #"More Info"
   cta_url: #"https://unsplash.com"
 ---
