@@ -32,7 +32,7 @@ Grad students should apply through the [Biology](https://www.biology.washington.
 * Imaging tissue and nerve regeneration 
 
 ## Research technicians
-Please check back soon. Future openings will be posted here.
+We have an opening for a Research Tech -- discover the fascination of working with zebrafish in beautiful Seattle! Apply [here](https://uwhires.admin.washington.edu/eng/candidates/default.cfm?szCategory=jobprofile&szOrderID=190885).
 
 ## Undergraduate students
 Please check back after winter quarter. Future openings will be posted here and in the [URP database](https://www.washington.edu/undergradresearch/students/find/). 
