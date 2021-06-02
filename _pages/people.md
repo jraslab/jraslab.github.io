@@ -65,6 +65,7 @@ Outside of lab, Nathaniel enjoys chess, working out, eating really good pasta, a
 {: .notice--danger}
 
 ## Lab alumni
+
 | Name | Position in lab | Position after leaving |
 |:--------|:-------:|--------:|
 | Tanya Brown, Ph.D.   | NSF Postdoctoral Fellow | Research Project Manager, Tess Research Foundation   |
