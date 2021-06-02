@@ -68,5 +68,5 @@ Outside of lab, Nathaniel enjoys chess, working out, eating really good pasta, a
 
 | Name | Position in lab | Position after leaving |
 |:--------|:-------:|--------:|
-| Tanya Brown, Ph.D.   | NSF Postdoctoral Fellow | Research Project Manager, Tess Research Foundation   |
+| Tanya Brown, Ph.D. <a href="https://twitter.com/TanyaLBrown_14"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i></a>  | NSF Postdoctoral Fellow | Research Project Manager, Tess Research Foundation   |
 | Ethan White   | Undergraduate Researcher   |    |
