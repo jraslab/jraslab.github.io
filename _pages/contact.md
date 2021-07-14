@@ -22,6 +22,6 @@ You can reach Jeff at ![contact](/assets/images/contact.png)
 ## Shipping address
 Rasmussen Lab  
 Department of Biology  
-Life Sciences Building 3W
-3747 West Stevens Way NE
+Life Sciences Building 3W 
+3747 West Stevens Way NE 
 Seattle, WA 98195-1800
