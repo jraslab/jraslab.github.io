@@ -1,5 +1,5 @@
 ---
-title: "Camille joins the lab as a research tech"
+title: "Camille joins the lab as a post-bac research tech"
 categories:
 #  - Post Formats
 tags:
@@ -7,6 +7,6 @@ tags:
 #  - readability
 #  - standard
 ---
-The lab welcomes Camille Goo as a new research tech. Camille recently graduated from University of Puget Sound graduate and will be mastering all things zebrafish! We are excited to have you, Camille!
+The lab welcomes Camille Goo as a new research tech. Camille recently graduated from University of Puget Sound and will be mastering all things zebrafish! We are excited to have you, Camille!
 
 
