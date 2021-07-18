@@ -1,5 +1,5 @@
 ---
-title: "The lab welcomes two new undergraduate students!"
+title: "Two new undergraduate students join the lab!"
 categories:
 #  - Post Formats
 tags:
