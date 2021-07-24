@@ -7,7 +7,7 @@ tags:
 #  - readability
 #  - standard
 ---
-The lab hosted a party on the LSB deck for Emma and Rosalind. Both are leaving the lab for the Bay Area. Emma will be starting graduate school in the Developmental & Stem Cell Biology Ph.D. program at UCSF. Rosalind will be starting as a K-12 teacher in San Mateo. Best of luck in Cali!
+The lab hosted a party on the LSB deck for Emma and Rosalind. Both are leaving the lab for the Bay Area. Emma will be starting graduate school in the [Developmental & Stem Cell Biology Ph.D. Program](https://dscb.ucsf.edu/) at UCSF. Rosalind will be starting as a K-12 teacher in San Mateo. Best of luck in Cali!
 
 <figure>
   <img src="{{site.url}}/assets/images/christine-lab-t-shirt.jpg" width="500" alt="Christine and t-shirt"/>
