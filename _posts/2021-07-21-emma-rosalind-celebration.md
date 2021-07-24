@@ -1,5 +1,5 @@
 ---
-title: "Celebration for Emma and Rosalind"
+title: "Celebration for Emma and Rosalind!"
 categories:
 #  - Post Formats
 tags:
