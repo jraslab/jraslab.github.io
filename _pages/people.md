@@ -59,7 +59,7 @@ Outside of lab, Nathaniel enjoys chess, working out, eating really good pasta, a
 | Name | Position in lab | Position after leaving |
 |:--------|:-------:|--------:|
 | Tanya Brown, Ph.D. <a href="https://twitter.com/TanyaLBrown_14"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i></a>  | NSF Postdoctoral Fellow | Research Project Manager, [Tess Research Foundation](https://www.tessresearch.org/)   |
-| Rosalind Bump <a href="https://twitter.com/rosbump"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i></a> | Graduate Student | Secondary education |
+| Rosalind Bump <a href="https://twitter.com/rosbump"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i></a> | Graduate Student | High school teacher |
 | Christine Dien <a href="https://twitter.com/christine_dien"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i></a> | Undergraduate Researcher | Bioinformatics Analyst, [Setty lab](https://research.fhcrc.org/setty/en.html), FHCRC |
 | Emma Horton | Research Tech | [Developmental & Stem Cell Biology Program](https://dscb.ucsf.edu/), UCSF |
 | Ethan White   | Undergraduate Researcher   |  Andrology Research Technician, Seattle Reproductive Medicine |
