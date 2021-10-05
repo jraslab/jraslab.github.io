@@ -10,6 +10,7 @@ header:
   cta_label: #"More Info"
   cta_url: #"https://unsplash.com"
 ---
+* Bump RG, Goo CEA, Horton EC, Rasmussen JP. Osteoblasts pattern endothelium and somatosensory axons during zebrafish caudal fin organogenesis. [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.09.28.462226v1)
 * Yin C, **Peterman E**, **Rasmussen JP**, Parrish JZ. Transparent Touch: Insights From Model Systems on Epidermal Control of Somatosensory Innervation. *Front Cell Neurosci*. 2021 May 31;15:680345. Pubmed PMID: [34135734](https://www.ncbi.nlm.nih.gov/pubmed/34135734). [[PDF]](/assets/pdf/Yin_Peterman_Rasmussen_Parrish_FrontCellNeuro_2021.pdf)
 * Cokus SJ, De La Torre M, Medina EF, **Rasmussen JP**, Ramirez-Gutierrez J, Sagasti A, Wang F. Tissue-specific transcriptomes reveal gene expression trajectories in two maturing skin epithelial layers in zebrafish embryos. *G3: Genes, Genomes, Genetics*. 2019 Oct 7;9(10):3439-3452. Pubmed PMID: [31431477](https://www.ncbi.nlm.nih.gov/pubmed/31431477). [[PDF]](/assets/pdf/Cokus_Wang_G3_2019.pdf)
 * Jiang N, **Rasmussen JP**, Clanton JA, Rosenberg MF, Luedke K, Cronan MR,
