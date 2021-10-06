@@ -30,7 +30,9 @@ As a postdoc in [Alvaro Sagasti's](https://www.mcdb.ucla.edu/Research/Sagasti/Sa
 <a href="https://twitter.com/evanwalkercraig"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i></a>
 
 ## Everett Fan – Undergraduate Researcher
-![Everett Fan](/assets/images/Everett-web.jpg){: .align-left} Everett grew up in Hawaii and is now an undergraduate at the University of Washington. He is majoring in Molecular, Cellular, and Developmental Biology and is currently working on quantitative spatial analysis of epidermal cells in the skin. Outside of academics, he enjoys video games, snowboarding, and hanging out at the beach. 
+![Everett Fan](/assets/images/Everett-web.jpg){: .align-left} Everett grew up in Hawaii and is now an undergraduate at the University of Washington. He is majoring in Molecular, Cellular, and Developmental Biology. 
+
+In the lab he is developing new analytical pipelines for quantitative spatial analysis of epidermal cells in the zebrafish skin. Outside of academics, he enjoys video games, snowboarding, and hanging out at the beach. 
 
 ## Samantha Fernandes – [MCB](https://mcb-seattle.edu/) Graduate Rotation Student
 ![Samantha Fernandes](/assets/images/samantha-fernandes-web.png){: .align-left} Samantha is originally from Miami, where she completed her Bachelor’s in Biological Sciences at Florida International University. Currently, she is part of the Molecular & Cellular Biology (MCB) graduate program at the UW. In the Rasmussen Lab, Samantha is using the zebrafish model to understand the role of Langerhans cells in axonal debris removal and the pathways of reinnervation of skin cells. One of Samantha’s greatest drives is to share the wonder of science with the public. She hopes to devote her career to helping translate the discoveries made by scientists into concepts that even those without an academic background can still appreciate. Outside of lab, she enjoys the tranquility of the forests and hopes to explore the many unique locations across the US.
@@ -65,4 +67,4 @@ Outside of lab, Nathaniel enjoys chess, working out, eating really good pasta, a
 | Rosalind Bump | Graduate Student | High school teacher |
 | Christine Dien <a href="https://twitter.com/christine_dien"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i></a> | Undergraduate Researcher | Bioinformatics Analyst, [Setty lab](https://research.fhcrc.org/setty/en.html), FHCRC |
 | Emma Horton | Research Tech | [Developmental & Stem Cell Biology Program](https://dscb.ucsf.edu/), UCSF |
-| Ethan White   | Undergraduate Researcher   |  Andrology Research Technician, Seattle Reproductive Medicine |
+| Ethan White   | Undergraduate Researcher |  Andrology Research Technician, Seattle Reproductive Medicine |
