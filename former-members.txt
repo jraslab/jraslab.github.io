@@ -18,3 +18,7 @@ Rosalind is currently funded by the [Cell and Molecular Biology Training Program
 
 ## Emma Horton – Research Technologist
 ![image-left](/assets/images/Emma-web.jpg){: .align-left} Emma was raised in the Pacific Northwest and loved it so much she decided to stick around for college and now for post undergrad work. She received two degrees from the University of Washington, one in Biochemistry and the other in Molecular, Cellular and Developmental Biology. She has plans to attend graduate school in the future, but she is currently continuing her stay at UW as a lab tech on Jeff Rasmussen's team investigating epidermal interactions with axons. Outside of academia, her hobbies include singing/songwriting, anything crafty, and snowboarding as much as possible. 
+
+## Arie “Tifarah” Aelmore - [UW ENDURE](http://depts.washington.edu/endure/) Summer Student
+![image-left](/assets/images/Arie-web.jpg){: .align-left} Arie completed their Associate's degree at Tacoma Community College in spring and will continue their education at Western Washington University this fall where they will major in Behavioral Neuroscience. In the lab, Arie is primarily studying the cell biology of Langerhans cells in the zebrafish skin. Arie spends most of their free time with their two dogs Luna and Hero and finds interest in anything neuroscience or psychology related. They are hoping to go on to an MD/PhD program in the future.
+
