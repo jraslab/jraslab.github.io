@@ -20,8 +20,8 @@ epidermal ensheathment of nociceptive sensory neurites. *eLife*. 2019;8:e42455. 
     * Highlight: [Scales Radi(i)cally Remodel Sensory Axons and Vasculature](https://www.ncbi.nlm.nih.gov/pubmed/30086298).
     * Sagasti A, **Rasmussen JP**. [Teenage Mutant Zebrafish: Scales
 Transform the Skin as Fish Grow Into Adulthood](https://kids.frontiersin.org/article/10.3389/frym.2019.00064). *Front. Young Minds*. 2019;7:64.
-* ![Rasmussen et al. 2015](/assets/images/Rasmussen_2015_200.png){: .align-right} **Rasmussen JP**, Sagasti A. Learning to swim, again: Axon regeneration in fish.  *Exp Neurol*. 2017 Jan;287(Pt 3):318-330. PubMed PMID: [26940084](http://www.ncbi.nlm.nih.gov/pubmed/26940084). [[PDF]](/assets/pdf/Rasmussen_Sagasti_ExpNeurol_2017.pdf)
-* **Rasmussen JP**, Sack GS, Martin SM, Sagasti A. Vertebrate epidermal cells are broad-specificity phagocytes that clear sensory axon debris. *J Neurosci*. 2015 Jan 14;35(2):559-70. PubMed PMID: [25589751](http://www.ncbi.nlm.nih.gov/pubmed/25589751). [[PDF]](/assets/pdf/Rasmussen_Sagasti_JNeuro_2015.pdf)
+* **Rasmussen JP**, Sagasti A. Learning to swim, again: Axon regeneration in fish.  *Exp Neurol*. 2017 Jan;287(Pt 3):318-330. PubMed PMID: [26940084](http://www.ncbi.nlm.nih.gov/pubmed/26940084). [[PDF]](/assets/pdf/Rasmussen_Sagasti_ExpNeurol_2017.pdf)
+* ![Rasmussen et al. 2015](/assets/images/Rasmussen_2015_200.png){: .align-right} **Rasmussen JP**, Sack GS, Martin SM, Sagasti A. Vertebrate epidermal cells are broad-specificity phagocytes that clear sensory axon debris. *J Neurosci*. 2015 Jan 14;35(2):559-70. PubMed PMID: [25589751](http://www.ncbi.nlm.nih.gov/pubmed/25589751). [[PDF]](/assets/pdf/Rasmussen_Sagasti_JNeuro_2015.pdf)
     * Highlight: [Skin cells clear neuronal debris](http://www.nature.com/nrn/journal/v16/n3/full/nrn3928.html).
     
 ---
