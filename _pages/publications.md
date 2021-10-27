@@ -10,17 +10,17 @@ header:
   cta_label: #"More Info"
   cta_url: #"https://unsplash.com"
 ---
-* ![Bump et al.](/assets/images/Bump_2021_200.png){: .align-right} **Bump RG**, **Goo CEA**, **Horton EC**, **Rasmussen JP**. Osteoblasts pattern endothelium and somatosensory axons during zebrafish caudal fin organogenesis. [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.09.28.462226v1)
+* ![Bump et al. 2021](/assets/images/Bump_2021_200.png){: .align-right} **Bump RG**, **Goo CEA**, **Horton EC**, **Rasmussen JP**. Osteoblasts pattern endothelium and somatosensory axons during zebrafish caudal fin organogenesis. [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.09.28.462226v1)
 * Yin C, **Peterman E**, **Rasmussen JP**, Parrish JZ. Transparent Touch: Insights From Model Systems on Epidermal Control of Somatosensory Innervation. *Front Cell Neurosci*. 2021 May 31;15:680345. Pubmed PMID: [34135734](https://www.ncbi.nlm.nih.gov/pubmed/34135734). [[PDF]](/assets/pdf/Yin_Peterman_Rasmussen_Parrish_FrontCellNeuro_2021.pdf)
 * Cokus SJ, De La Torre M, Medina EF, **Rasmussen JP**, Ramirez-Gutierrez J, Sagasti A, Wang F. Tissue-specific transcriptomes reveal gene expression trajectories in two maturing skin epithelial layers in zebrafish embryos. *G3: Genes, Genomes, Genetics*. 2019 Oct 7;9(10):3439-3452. Pubmed PMID: [31431477](https://www.ncbi.nlm.nih.gov/pubmed/31431477). [[PDF]](/assets/pdf/Cokus_Wang_G3_2019.pdf)
 * Jiang N, **Rasmussen JP**, Clanton JA, Rosenberg MF, Luedke K, Cronan MR,
 Parker E, Vaughan J, Sagasti A, Parrish JZ. A conserved morphogenetic mechanism for
 epidermal ensheathment of nociceptive sensory neurites. *eLife*. 2019;8:e42455. Pubmed PMID: [30855229](https://www.ncbi.nlm.nih.gov/pubmed/30855229). [[PDF]](/assets/pdf/Jiang_Parrish_eLife_2019.pdf)
-* **Rasmussen JP**, Vo NT, Sagasti A. Fish scales dictate the pattern of adult skin innervation and vascularization. *Dev Cell*. 2018 Aug 6;46(3):344-359.e4. PubMed PMID: [30032992](https://www.ncbi.nlm.nih.gov/pubmed/30032992). [[PDF]](/assets/pdf/Rasmussen_Sagasti_DevCell_2018.pdf)
+* ![Rasmussen et al. 2018](/assets/images/Rasmussen_2018_200.png){: .align-right} **Rasmussen JP**, Vo NT, Sagasti A. Fish scales dictate the pattern of adult skin innervation and vascularization. *Dev Cell*. 2018 Aug 6;46(3):344-359.e4. PubMed PMID: [30032992](https://www.ncbi.nlm.nih.gov/pubmed/30032992). [[PDF]](/assets/pdf/Rasmussen_Sagasti_DevCell_2018.pdf)
     * Highlight: [Scales Radi(i)cally Remodel Sensory Axons and Vasculature](https://www.ncbi.nlm.nih.gov/pubmed/30086298).
     * Sagasti A, **Rasmussen JP**. [Teenage Mutant Zebrafish: Scales
 Transform the Skin as Fish Grow Into Adulthood](https://kids.frontiersin.org/article/10.3389/frym.2019.00064). *Front. Young Minds*. 2019;7:64.
-* **Rasmussen JP**, Sagasti A. Learning to swim, again: Axon regeneration in fish.  *Exp Neurol*. 2017 Jan;287(Pt 3):318-330. PubMed PMID: [26940084](http://www.ncbi.nlm.nih.gov/pubmed/26940084). [[PDF]](/assets/pdf/Rasmussen_Sagasti_ExpNeurol_2017.pdf)
+* ![Rasmussen et al. 2015](/assets/images/Rasmussen_2015_200.png){: .align-right} **Rasmussen JP**, Sagasti A. Learning to swim, again: Axon regeneration in fish.  *Exp Neurol*. 2017 Jan;287(Pt 3):318-330. PubMed PMID: [26940084](http://www.ncbi.nlm.nih.gov/pubmed/26940084). [[PDF]](/assets/pdf/Rasmussen_Sagasti_ExpNeurol_2017.pdf)
 * **Rasmussen JP**, Sack GS, Martin SM, Sagasti A. Vertebrate epidermal cells are broad-specificity phagocytes that clear sensory axon debris. *J Neurosci*. 2015 Jan 14;35(2):559-70. PubMed PMID: [25589751](http://www.ncbi.nlm.nih.gov/pubmed/25589751). [[PDF]](/assets/pdf/Rasmussen_Sagasti_JNeuro_2015.pdf)
     * Highlight: [Skin cells clear neuronal debris](http://www.nature.com/nrn/journal/v16/n3/full/nrn3928.html).
     
