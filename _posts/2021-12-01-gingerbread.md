@@ -12,4 +12,5 @@ The lab got into the holiday spirit by decorating gingerbread houses! It was fun
 Congrats to Sam, Erik, Nathaniel and Jeff for best houses for humor and science!
 
 ![gingerbread decorating](/assets/images/2021-gingerbread-1.jpg)
+
 ![gingerbread decorating](/assets/images/2021-gingerbread-3.jpg)
