@@ -11,4 +11,4 @@ Our paper from co-authors Rosalind Bump, Camille Goo, and Emma Horton analyzing 
 
 Thanks to the journal for the research highlight on our work: [Is bone idle? Osteoblasts pattern fin neuro-vasculature](https://journals.biologists.com/dev/article/149/3/e149_e0302/274280/Is-bone-idle-Osteoblasts-pattern-fin-neuro)
 
-[Bump et al. Figure 2](/assets/images/Bump_et_al_Figure-2-220120.jpg)
+[!Bump et al. Figure 2](/assets/images/Bump_et_al_Figure-2-220120.jpg)
