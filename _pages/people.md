@@ -63,4 +63,4 @@ Outside of lab, Nathaniel enjoys chess, working out, eating really good pasta, a
 | Rosalind Bump | Graduate Student | High school teacher |
 | Christine Dien <a href="https://twitter.com/christine_dien"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i></a> | Undergraduate Researcher | Bioinformatics Analyst, [Setty lab](https://research.fhcrc.org/setty/en.html), FHCRC |
 | Emma Horton | Research Tech | [Developmental & Stem Cell Biology Program](https://dscb.ucsf.edu/), UCSF |
-| Ethan White   | Undergraduate Researcher |  Andrology Research Technician, Seattle Reproductive Medicine |
+| Ethan White   | Undergraduate Researcher |  Imaging Research Associate, Altius Institute |
