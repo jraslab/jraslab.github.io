@@ -7,4 +7,4 @@ tags:
 #  - readability
 #  - standard
 ---
-The lab is super excited to welcome MCB graduate student Sam Fernandes and Erik Black to the lab for their Ph.D. studies! We look forward to lots of great things to come!
+The lab is super excited to welcome MCB graduate students Sam Fernandes and Erik Black to the lab for their Ph.D. studies! We look forward to lots of great things to come!
