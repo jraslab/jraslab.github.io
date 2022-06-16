@@ -24,6 +24,10 @@ As a postdoc in [Alvaro Sagasti's](https://www.mcdb.ucla.edu/Research/Sagasti/Sa
 
 Affiliate member: [ISCRM](https://iscrm.uw.edu/) \| [Diabetes Research Center](https://depts.washington.edu/diabetes/) \| [Cancer Consortium](https://www.cancerconsortium.org/en.html)
 
+## Erik Black - [MCB](https://mcb-seattle.edu/) Graduate Student
+![Erik Black](/assets/images/erik-black-web.png){: .align-left} Erik earned his bachelor’s degree in molecular biology from the University of South Florida in 2018. After graduating, he relocated to Seattle to work as a research technician in [Aakanksha Singhvi’s lab](https://research.fredhutch.org/singhvi/en.html) at Fred Hutch. While in the Singhvi lab, Erik grew a passion for cellular interactions between neurons and non-neuronal cells, such as glia, skin, immune cells, etc. Erik is excited to further explore the interaction between neurons, skin, and specialized somatosensory cells in the Rasmussen lab. Outside of lab Erik enjoys seeing live music and exploring the food and drinks scene in Seattle.
+
+
 ## Evan Craig – [Biology](https://www.biology.washington.edu/programs/graduate) Graduate Student
 ![Evan Craig](/assets/images/Evan-web.jpg){: .align-left} Evan obtained his bachelor’s degree in cell biology while participating as a student-athlete for Rockhurst University’s men’s soccer team. Upon graduation, he worked as a research tech in [Prachee Avasthi's](http://www.avasthilab.org/) lab at KU Medical Center where he confirmed his passion for cell biology and microscopy while studying *Chlamydomonas reinhardtii*, a single-celled, eukaryotic algae.  His research focused on visualizing the *Chlamydomonas* actin cytoskeleton and characterizing the role of actin-nucleating formin proteins in this algae. He's excited to apply his background in cytoskeletal dynamics to a developmental model and learn zebrafish imaging techniques. Outside of lab, Evan loves to go on long runs, play guitar, and pick up any book written by Haruki Murakami.
 <a href="https://twitter.com/evanwalkercraig"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i></a>
@@ -32,6 +36,9 @@ Affiliate member: [ISCRM](https://iscrm.uw.edu/) \| [Diabetes Research Center](h
 ![Everett Fan](/assets/images/Everett-web.jpg){: .align-left} Everett grew up in Hawaii and is now an undergraduate at the University of Washington. He is majoring in Molecular, Cellular, and Developmental Biology. 
 
 In the lab he is developing new analytical pipelines for quantitative spatial analysis of epidermal cells in the zebrafish skin. Outside of academics, he enjoys video games, snowboarding, and hanging out at the beach. 
+
+## Samantha Fernandes – [MCB](https://mcb-seattle.edu/) Graduate Student
+![Samantha Fernandes](/assets/images/samantha-fernandes-web.png){: .align-left} Samantha is originally from Miami, where she completed her Bachelor’s in Biological Sciences at Florida International University. Currently, she is part of the Molecular & Cellular Biology (MCB) graduate program at the UW. In the Rasmussen Lab, Samantha is using the zebrafish model to understand the role of Langerhans cells in axonal debris removal and the pathways of reinnervation of skin cells. One of Samantha’s greatest drives is to share the wonder of science with the public. She hopes to devote her career to helping translate the discoveries made by scientists into concepts that even those without an academic background can still appreciate. Outside of lab, she enjoys the tranquility of the forests and hopes to explore the many unique locations across the US.
 
 ## Camille Goo – Research Technologist
 ![Camille Goo](/assets/images/Camille-web.jpg){: .align-left} Camille recently graduated from the University of Puget Sound with dual degrees in Molecular & Cellular Biology and Japanese. At UPS, she researched nanotoxicity of bismuth nanoparticles on bacteria in Emily Tollefson's lab. Camille is excited to now be working in the Rasmussen lab, looking at interactions between axons and epidermal cells. In her free time, Camille enjoys playing ultimate frisbee, trying a variety of crafts and hanging out with her dog, cat, and chinchilla.
