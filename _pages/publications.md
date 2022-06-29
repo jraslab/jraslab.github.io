@@ -10,7 +10,7 @@ header:
   cta_label: #"More Info"
   cta_url: #"https://unsplash.com"
 ---
-* **Peterman E, Quitevis E, Horton E, Aelmore R, White E,** Sagasti A, **Rasmussen JP**. Skin-resident immune cells engulf axonal debris in adult epidermis. *bioRxiv* 2022 June 16; [10.1101/2022.06.15.496311v1](https://www.biorxiv.org/content/10.1101/2022.06.15.496311v1)
+* ![Peterman et al. 2022](/assets/images/Peterman-scale-pluck-paper.png){: .align-right width="200px"}**Peterman E, Quitevis E, Horton E, Aelmore R, White E,** Sagasti A, **Rasmussen JP**. Skin-resident immune cells engulf axonal debris in adult epidermis. *bioRxiv* 2022 June 16; [10.1101/2022.06.15.496311](https://www.biorxiv.org/content/10.1101/2022.06.15.496311)
 * ![Bump et al. 2021](/assets/images/Bump_2021_200.png){: .align-right} **Bump RG**, **Goo CEA**, **Horton EC**, **Rasmussen JP**. Osteoblasts pattern endothelium and somatosensory axons during zebrafish caudal fin organogenesis. *Development* 2022 Feb 7; 149(3):[dev200172](https://journals.biologists.com/dev/article/149/3/dev200172/274277/Osteoblasts-pattern-endothelium-and-somatosensory). [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2021.09.28.462226v1)
 	* Highlight: [Is bone idle? Osteoblasts pattern fin neuro-vasculature](https://journals.biologists.com/dev/article/149/3/e149_e0302/274280/Is-bone-idle-Osteoblasts-pattern-fin-neuro)
 * Yin C, **Peterman E**, **Rasmussen JP**, Parrish JZ. Transparent Touch: Insights From Model Systems on Epidermal Control of Somatosensory Innervation. *Front Cell Neurosci*. 2021 May 31;15:680345. Pubmed PMID: [34135734](https://www.ncbi.nlm.nih.gov/pubmed/34135734). [[PDF]](/assets/pdf/Yin_Peterman_Rasmussen_Parrish_FrontCellNeuro_2021.pdf)

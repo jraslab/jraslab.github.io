@@ -28,3 +28,8 @@ Rosalind is currently funded by the [Cell and Molecular Biology Training Program
 ## Samantha Fernandes – [MCB](https://mcb-seattle.edu/) Graduate Rotation Student
 ![Samantha Fernandes](/assets/images/samantha-fernandes-web.png){: .align-left} Samantha is originally from Miami, where she completed her Bachelor’s in Biological Sciences at Florida International University. Currently, she is part of the Molecular & Cellular Biology (MCB) graduate program at the UW. In the Rasmussen Lab, Samantha is using the zebrafish model to understand the role of Langerhans cells in axonal debris removal and the pathways of reinnervation of skin cells. One of Samantha’s greatest drives is to share the wonder of science with the public. She hopes to devote her career to helping translate the discoveries made by scientists into concepts that even those without an academic background can still appreciate. Outside of lab, she enjoys the tranquility of the forests and hopes to explore the many unique locations across the US.
 
+
+## Everett Fan – Undergraduate Researcher
+![Everett Fan](/assets/images/Everett-web.jpg){: .align-left} Everett grew up in Hawaii and is now an undergraduate at the University of Washington. He is majoring in Molecular, Cellular, and Developmental Biology. 
+
+In the lab he is developing new analytical pipelines for quantitative spatial analysis of epidermal cells in the zebrafish skin. Outside of academics, he enjoys video games, snowboarding, and hanging out at the beach. 
