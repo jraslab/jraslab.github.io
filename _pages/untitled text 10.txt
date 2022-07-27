@@ -1,9 +1,0 @@
->espn-prom-5'-f	
-CATCACGCCGATACTGAAGAT
->espn-prom-3'-r1
-ACAAATGACTATTAGCGCACCA
-
-8:46929980-46939546
-
-	02-06-2019	02-06-2020	Expired	
-Biosafety Training-Online (2010-813)
