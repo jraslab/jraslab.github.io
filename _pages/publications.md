@@ -10,7 +10,7 @@ header:
   cta_label: #"More Info"
   cta_url: #"https://unsplash.com"
 ---
-* ![Brown et al. 2022](/assets/images/Brown-Horton-paper.png){: .align-right width="200px"} **Brown TL, Horton EC, Craig EW,** Hewitt MN, **Yee NG, Goo CEA, Fan ET, Black EC,** Raible DW, **Rasmussen JP**. Dermal appendage-dependent patterning of zebrafish *atoh1a+** Merkel cells. *bioRxiv* 2022 August 11; 
+* ![Brown et al. 2022](/assets/images/Brown-Horton-paper.png){: .align-right width="200px"} **Brown TL, Horton EC, Craig EW,** Hewitt MN, **Yee NG, Goo CEA, Fan ET, Black EC,** Raible DW, **Rasmussen JP**. Dermal appendage-dependent patterning of zebrafish *atoh1a+* Merkel cells. *bioRxiv* 2022 August 11; 
 [10.1101/2022.08.11.503570](https://www.biorxiv.org/content/10.1101/2022.08.11.503570)
 * Vorselen D, Kamber RA, Labitigan RLD, van Loon AP, **Peterman E**, Delgado MK, Lin S, **Rasmussen JP**, Bassik MC, Theriot JA. Cell surface receptors TREM2, CD14 and integrin αMβ2 drive sinking engulfment in phosphatidylserine-mediated phagocytosis. *bioRxiv* 2022 July 31; 
 [10.1101/2022.07.30.502145](https://www.biorxiv.org/content/10.1101/2022.07.30.502145)
