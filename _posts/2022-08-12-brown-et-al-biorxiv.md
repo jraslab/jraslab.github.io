@@ -7,7 +7,7 @@ tags:
 #  - readability
 #  - standard
 ---
-A preprint from co-first authors Tanya Brown and Emma Horton entitled "Dermal appendage-dependent patterning of zebrafish *atoh1a+* Merkel cells" our is now online at [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.06.15.496311). Way to go Team Merkel! 
+A preprint from co-first authors Tanya Brown and Emma Horton entitled "Dermal appendage-dependent patterning of zebrafish *atoh1a+* Merkel cells" our is now online at [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.08.11.503570). Way to go Team Merkel! 
 
 Check out our twitter thread with a bit of the backstory and few highlights from the manuscript here:
 
