@@ -47,14 +47,6 @@ Affiliate member: [ISCRM](https://iscrm.uw.edu/) \| [Diabetes Research Center](h
 ## Elgene Quitevis – Research Technologist
 ![Elgene Quitevis](/assets/images/Elgene-web.jpg){: .align-left} Elgene is a recent graduate of the UW, with a dual degree in Biochemistry and Biology (Molecular, Cellular & Developmental). His project revolves around tool building by constructing genetic reporters for analysis of skin/neuron development and repair.  In his free time, Elgene enjoys a wide variety of things. From attempting to learn new concepts from different scientific disciplines (e.g., quantum mechanics, advanced mathematics, etc.) by browsing the internet and reading scientific papers to trivia quizzes, playing videogames, collecting memes and playing the violin. He recently has taken up learning to play the piano and programming with an interest in data science, machine learning and simulations.
 
-## Nathaniel Yee – Undergraduate Researcher
-![Nathaniel Yee](/assets/images/Nathaniel-web.jpg){: .align-left} Nathaniel is an undergraduate at the University of Washington who is currently undeclared, but is interested in majoring in biology. 
-
-Nathaniel is currently working on understanding the dynamic characteristics of Merkel cells in the epidermal environment of zebrafish.
-
-Outside of lab, Nathaniel enjoys chess, working out, eating really good pasta, and watching football.
-
-
 ## Want to join the lab?
 **The lab is looking for enthusiastic and hard-working scientists at all levels! [Find out more](/join/).** 
 {: .notice--danger}
@@ -66,5 +58,7 @@ Outside of lab, Nathaniel enjoys chess, working out, eating really good pasta, a
 | Tanya Brown, Ph.D. <a href="https://twitter.com/TanyaLBrown_14"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i></a>  | NSF Postdoctoral Fellow | Scientific Director, [Tess Research Foundation](https://www.tessresearch.org/)   |
 | Rosalind Bump | Graduate Student | High school teacher |
 | Christine Dien <a href="https://twitter.com/christine_dien"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i></a> | Undergraduate Researcher | Bioinformatics Analyst, [Setty lab](https://research.fhcrc.org/setty/en.html), FHCRC |
+| Everett Fan  | Undergraduate Researcher |   |
 | Emma Horton | Research Tech | [Developmental & Stem Cell Biology Program](https://dscb.ucsf.edu/), UCSF |
 | Ethan White   | Undergraduate Researcher |  Imaging Research Associate, [Altius Institute](http://www.altius.org/) |
+| Nathaniel Yee   | Undergraduate Researcher |  Research Tech |

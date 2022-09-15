@@ -33,3 +33,10 @@ Rosalind is currently funded by the [Cell and Molecular Biology Training Program
 ![Everett Fan](/assets/images/Everett-web.jpg){: .align-left} Everett grew up in Hawaii and is now an undergraduate at the University of Washington. He is majoring in Molecular, Cellular, and Developmental Biology. 
 
 In the lab he is developing new analytical pipelines for quantitative spatial analysis of epidermal cells in the zebrafish skin. Outside of academics, he enjoys video games, snowboarding, and hanging out at the beach. 
+
+## Nathaniel Yee – Undergraduate Researcher
+![Nathaniel Yee](/assets/images/Nathaniel-web.jpg){: .align-left} Nathaniel is an undergraduate at the University of Washington who is currently undeclared, but is interested in majoring in biology. 
+
+Nathaniel is currently working on understanding the dynamic characteristics of Merkel cells in the epidermal environment of zebrafish.
+
+Outside of lab, Nathaniel enjoys chess, working out, eating really good pasta, and watching football.
