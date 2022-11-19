@@ -78,6 +78,8 @@ naver_site_verification  :
 # Social Sharing
 twitter:
   username               : jraslab
+mstdn:
+  username               : jraslab
 facebook:
   username               :
   app_id                 :
