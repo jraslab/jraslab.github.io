@@ -45,6 +45,10 @@ Affiliate member: [ISCRM](https://iscrm.uw.edu/) \| [Diabetes Research Center](h
 ## Elgene Quitevis – Research Technologist
 ![Elgene Quitevis](/assets/images/Elgene-web.jpg){: .align-left} Elgene is a recent graduate of the UW, with a dual degree in Biochemistry and Biology (Molecular, Cellular & Developmental). His project revolves around tool building by constructing genetic reporters for analysis of skin/neuron development and repair.  In his free time, Elgene enjoys a wide variety of things. From attempting to learn new concepts from different scientific disciplines (e.g., quantum mechanics, advanced mathematics, etc.) by browsing the internet and reading scientific papers to trivia quizzes, playing videogames, collecting memes and playing the violin. He recently has taken up learning to play the piano and programming with an interest in data science, machine learning and simulations.
 
+## Sheridan Sargent – [Neuroscience](https://depts.washington.edu/neurogrd/) Graduate Rotation Student
+![Sheridan Sargent](/assets/images/Sheridan-web.png){: .align-left} Sheridan received her M.Sc. in applied biology from Salisbury University, where she previously received dual bachelor degrees in biology and psychology. Her research focused on peripheral motor nerve regeneration and skeletal development in hyperglycemic zebrafish. Currently, Sheridan is part of the Neuroscience graduate program at the UW. As a rotation student in the Rasmussen lab, she is excited to apply her background on regeneration to experiments on the Merkel cell-neurite complex.
+
+
 ## Want to join the lab?
 **The lab is looking for enthusiastic and hard-working scientists at all levels! [Find out more](/join/).** 
 {: .notice--danger}
