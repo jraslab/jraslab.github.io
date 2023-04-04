@@ -1,0 +1,57 @@
+---
+title: "Home"
+layout: splash
+permalink: /
+header:
+  overlay_color: #"#000"
+  overlay_filter: #"0.5"
+  overlay_image: /assets/images/header-scale-nerve-rgb.png
+  cta_label: #"Download"
+  cta_url: #"https://github.com/mmistakes/minimal-mistakes/"
+  caption: #"Photo credit: [**Unsplash**](https://unsplash.com)"
+excerpt: #""
+#intro: 
+#- excerpt: 'Welcome to the homepage of the Rasmussen Lab @ [UW Biology](https://www.biology.washington.edu/)<br> Launching Fall 2018!<br>'
+feature_row:
+  - image_path: /assets/images/mpeg1LifeActGFP_600.gif
+  #- image_path: /assets/images/splash-axons-vessels-600.png
+    image_caption: #"Image courtesy of [Unsplash](https://unsplash.com/)"
+    alt: #"placeholder image 1"
+    title: "Projects"
+    excerpt: #"This is some sample content that goes here with **Markdown** formatting."
+    url: "/projects/"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/2022-raslab.jpeg
+  #- image_path: /assets/images/splash-raslab-july-2021-1200.jpg
+  #- image_path: /assets/images/splash-scales-YB-600.png
+    alt: #"placeholder image 2"
+    title: "People"
+    excerpt: #"This is some sample content that goes here with **Markdown** formatting."
+    url: "/people/"
+    btn_label: "Meet the lab"
+    btn_class: "btn--primary"
+  #- image_path: /assets/images/splash-axon-color-survey-600.png
+  - image_path: /assets/images/splash-scales-YB-600.png
+    title: "Publications"
+    excerpt: #"This is some sample content that goes here with **Markdown** formatting."
+    url: "/publications/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+---
+{% capture intro-text %}
+
+**Welcome to the homepage of the Rasmussen Lab @ [UW Biology](https://www.biology.washington.edu/)**
+
+We are a team of dedicated scientists studying the development and repair of sensory structures in the skin. 
+
+*The lab is looking for enthusiastic and hard-working researchers at all levels! Learn how to [join the lab](/join/).*
+
+Read the latest lab news [here](/news/). 
+{% endcapture %}
+
+<div class="notice--primary" style="text-align:center">
+  {{ intro-text | markdownify }}
+</div>
+
+{% include feature_row %}
