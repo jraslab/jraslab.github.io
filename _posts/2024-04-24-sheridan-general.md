@@ -7,4 +7,4 @@ tags:
 #  - readability
 #  - standard
 ---
-Graduate student Sheridan Sargent passes her general exam! Wahoo! That is the third Raslab grad to pass their orals this academic year. :hundred_points:
+Graduate student Sheridan Sargent passes her general exam! Wahoo! That is the third Raslab grad to pass their orals this academic year. :100:
