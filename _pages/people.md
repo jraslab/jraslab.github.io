@@ -72,9 +72,8 @@ graduate school, she worked in [Dr. Judith Kimble's](https://kimblelab.biochem.w
 | Evan Craig | Graduate Student | Research Associate II, Seagen |
 | Christine Dien <a href="https://twitter.com/christine_dien"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i></a> | Undergraduate Researcher | Bioinformatics Analyst, [Setty lab](https://research.fhcrc.org/setty/en.html), Fred Hutch |
 | Everett Fan  | Undergraduate Researcher | Research Tech, [Furlan lab](https://furlan-lab.github.io/index.html), Fred Hutch  |
-| Camille Goo | Research Tech | [Biomedical Sciences Ph.D.
-Program](https://www.cuanschutz.edu/graduate-programs/biomedical-sciences-program/home), CU–Anschutz |
+| Camille Goo | Research Tech | [Biomedical Sciences Graduate Program](https://www.cuanschutz.edu/graduate-programs/biomedical-sciences-program/home), CU–Anschutz |
 | Pearl Leon Guerrero-Mcinally | Undergraduate Researcher | TBD  |
-| Emma Horton | Research Tech | [Developmental & Stem Cell Biology Program](https://dscb.ucsf.edu/), UCSF |
+| Emma Horton | Research Tech | [Developmental & Stem Cell Biology Graduate Program](https://dscb.ucsf.edu/), UCSF |
 | Ethan White   | Undergraduate Researcher |  Imaging Research Associate, [Altius Institute](http://www.altius.org/) |
 | Nathaniel Yee   | Undergraduate Researcher |  Research Tech, [Maitra Lab](https://www.mdanderson.org/research/departments-labs-institutes/labs/maitra-laboratory.html), MD Anderson |
