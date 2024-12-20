@@ -3,6 +3,9 @@
     {% if site.data.ui-text[site.locale].follow_label %}
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
     {% endif %}
+    {% if site.bsky.username %}
+      <li><a href="https://bsky.app/profile/{{ site.bsky.username }}"><img src="/assets/images/bluesky_logo.png" alt="Bluesky logo" width="25"> Bluesky</a></li>
+    {% endif %}
     {% if site.mstdn.username %}
       <li><a rel="me" href="https://mstdn.science/@{{ site.mstdn.username }}"><img src="/assets/images/mstdn.png" alt="Mastodon logo" width="25"> Mastodon</a></li>
     {% endif %}
