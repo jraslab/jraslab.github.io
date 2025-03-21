@@ -150,6 +150,7 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
+  - .DS_Store
   - assets/js/plugins
   - assets/js/_main.js
   - assets/js/vendor

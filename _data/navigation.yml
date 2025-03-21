@@ -10,6 +10,8 @@ main:
     url: /news/
   - title: "Join"
     url: /join/
+  - title: "Donate"
+    url: /donate/
   - title: "Gallery"
     url: /gallery/
   - title: "Contact"
