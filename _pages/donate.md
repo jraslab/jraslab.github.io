@@ -15,7 +15,7 @@ Thank you for your interest in supporting the Rasmussen Lab! Philanthropy serves
 
 To donate online, please make a donation to the Biology Research Support Fund using the Donate button below. Before completing your gift, **please enter a comment "In support of the Rasmussen Lab" under the "Comments / Special Instructions" at checkout to ensure your gift reaches our lab.**
  
-[Donate](https://www.washington.edu/giving/make-a-gift/?source_typ=3&source=FND-117513&fastForward=yes){: .btn .btn--info}
+[Donate](https://www.washington.edu/giving/make-a-gift/?source_typ=3&source=FND-117513&fastForward=yes){: .btn .btn--info .btn--large .align-center}
  
 If you would prefer to give by mail, please make your check payable to the "University of Washington" with **"Biology Research Support Fund – Rasmussen Lab"** in the notes, and send to the following address:
 
