@@ -19,6 +19,6 @@ To donate online, please make a donation to the Biology Research Support Fund us
  
 If you would prefer to give by mail, please make your check payable to the "University of Washington" with **"Biology Research Support Fund – Rasmussen Lab"** in the notes, and send to the following address:
 
-University of Washington Gift Services
-Box 359505
+University of Washington Gift Services\
+Box 359505\
 Seattle, WA 98195-9505
