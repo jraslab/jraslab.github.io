@@ -37,4 +37,4 @@ Grad students should apply through the [Biology](https://www.biology.washington.
 Future openings for research tech positions will be posted here.
 
 ## Undergraduate students
-Please check back later in winter quarter 2022. Future openings will be posted here and in the [URP database](https://www.washington.edu/undergradresearch/students/find/). 
+Openings for undergraduate researchers will be posted in the [URP database](https://www.washington.edu/undergradresearch/students/find/). 
