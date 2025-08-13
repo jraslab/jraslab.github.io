@@ -1,5 +1,5 @@
 ---
-title: "MC3 Institute features a Q&A with Jeff"
+title: "Ahlan attends zebrafish conference with Moon travel award"
 categories:
 #  - Post Formats
 tags:
@@ -7,4 +7,6 @@ tags:
 #  - readability
 #  - standard
 ---
-The Merkel Cell Carcinoma Collaborative (MC3) Institute recently featured a Q&A with Jeff about our recent Merkel cell [paper](http://doi.org/10.1242/dev.204810) published in *Development*. Check it out [here](https://mc3institute.uw.edu/news/rasmussen-labs-zebrafish-model-drives-breakthrough-skin-regeneration)! 
+Ahlan Ferdous attended the [19th International Zebrafish Society Conference](https://www.izfs.org/education/19izfc) in Madison, Wisconsin in July 2025. She was awarded with Moon Travel fellowship by [Institute of Stem Cell and Regenerative Medicine](https://iscrm.uw.edu/) at the University of Washington. The Moon Travel Fellowship honors the legacy of [Dr. Randy Moon](https://iscrm.uw.edu/stories/moon/), a leader in the Seattle developmental biology community.
+
+The zebrafish conference gathered an international community of scientists to share the latest advances in fish research, covering topics from developmental biology and genetics to disease modeling and emerging technologies. During the meeting, Ahlan presented a poster highlighting her research on the mechanisms of Merkel cell development and regeneration, using the adult zebrafish epidermis as a novel model. The event provided her with opportunities to attend inspiring keynote lectures, learn about the latest innovative and useful methodologies, and network with experts and peers in the field.
