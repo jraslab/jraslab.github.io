@@ -10,24 +10,10 @@ header:
   cta_label: #"More Info"
   cta_url: #"https://unsplash.com"
 ---
-
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <ul>
-          <li> 
-          ![Peterman et al. 2025](/assets/images/Peterman-MT-paper.png){: .align-right width="200px"}**Peterman E**, Murphy A, Swinburne IA, Linbo TH, Megason SG, **Rasmussen JP**. Microtubules regulate tissue-level navigation in skin-resident macrophages. *J Cell Sci*. 2025 Aug 19:[jcs.264101](https://doi.org/10.1242/jcs.264101). [[bioRxiv preprint]](https://www.biorxiv.org/content/10.1101/2025.03.13.642867)
-          </li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-| <ul><li> ![Craig et al. 2025](/assets/images/Craig-dMC-paper.png){: .align-right width="200px"} **Craig EW, Black EC, Fernandes SZ, Ferdous AS, Goo CEA, Sargent SM, Quitevis EJA, Swearer AA, Yee NG,** Shin J, Solnica-Krezel L, **Rasmussen JP**. Dendritic *atoh1a+* cells serve as Merkel cell precursors during skin development and regeneration. *Development*. 2025 Jun 2:[dev.204810](http://doi.org/10.1242/dev.204810). [[bioRxiv preprint]](https://www.biorxiv.org/content/10.1101/2023.09.14.557830)</li></ul>|
-| * ![Leon Guerrero et al. 2024](/assets/images/pearl-et-al-ca-dynamics.gif){: .align-right width="200px"}**Leon Guerrero PA, Rasmussen JP&dagger;, Peterman E&dagger;**. Calcium dynamics of skin-resident macrophages during homeostasis and tissue injury. *Molecular Biology of the Cell*. 2024 Dec 2:[mbcE24090420](https://doi.org/10.1091/mbc.E24-09-0420). [[bioRxiv preprint]](https://www.biorxiv.org/content/10.1101/2024.09.24.614510) &dagger; equal contributions |
-| * ![Peterman et al. 2024](/assets/images/Peterman-ROCK-paper.png){: .align-right width="200px"} **Peterman E, Quitevis EJA, Goo CEA, Rasmussen JP**. Rho-associated kinase regulates Langerhans cell morphology and responsiveness to tissue damage. *Cell Reports*. 2024 May 28; 43(5):[114208](https://doi.org/10.1016/j.celrep.2024.114208). [[bioRxiv preprint]](https://www.biorxiv.org/content/10.1101/2023.07.28.550974)|
+* ![Peterman et al. 2025](/assets/images/Peterman-MT-paper.png){: .align-right width="200px"}**Peterman E**, Murphy A, Swinburne IA, Linbo TH, Megason SG, **Rasmussen JP**. Microtubules regulate tissue-level navigation in skin-resident macrophages. *J Cell Sci*. 2025 Aug 19:[jcs.264101](https://doi.org/10.1242/jcs.264101). [[bioRxiv preprint]](https://www.biorxiv.org/content/10.1101/2025.03.13.642867) <br><br>
+* ![Craig et al. 2025](/assets/images/Craig-dMC-paper.png){: .align-right width="200px"} **Craig EW, Black EC, Fernandes SZ, Ferdous AS, Goo CEA, Sargent SM, Quitevis EJA, Swearer AA, Yee NG,** Shin J, Solnica-Krezel L, **Rasmussen JP**. Dendritic *atoh1a+* cells serve as Merkel cell precursors during skin development and regeneration. *Development*. 2025 Jun 2:[dev.204810](http://doi.org/10.1242/dev.204810). [[bioRxiv preprint]](https://www.biorxiv.org/content/10.1101/2023.09.14.557830)
+* ![Leon Guerrero et al. 2024](/assets/images/pearl-et-al-ca-dynamics.gif){: .align-right width="200px"}**Leon Guerrero PA, Rasmussen JP&dagger;, Peterman E&dagger;**. Calcium dynamics of skin-resident macrophages during homeostasis and tissue injury. *Molecular Biology of the Cell*. 2024 Dec 2:[mbcE24090420](https://doi.org/10.1091/mbc.E24-09-0420). [[bioRxiv preprint]](https://www.biorxiv.org/content/10.1101/2024.09.24.614510) &dagger; equal contributions
+* ![Peterman et al. 2024](/assets/images/Peterman-ROCK-paper.png){: .align-right width="200px"} **Peterman E, Quitevis EJA, Goo CEA, Rasmussen JP**. Rho-associated kinase regulates Langerhans cell morphology and responsiveness to tissue damage. *Cell Reports*. 2024 May 28; 43(5):[114208](https://doi.org/10.1016/j.celrep.2024.114208). [[bioRxiv preprint]](https://www.biorxiv.org/content/10.1101/2023.07.28.550974)
 * ![Peterman et al. 2023](/assets/images/Peterman-scale-pluck-paper.png){: .align-right width="200px"}**Peterman E, Quitevis EJA, Black EC, Horton EC, Aelmore RL, White E,** Sagasti A, **Rasmussen JP**. Zebrafish cutaneous injury models reveal that Langerhans cells engulf axonal debris in adult epidermis. *Disease Models & Mechanisms*. 2023 Apr 1; 16(4):[dmm049911](https://doi.org/10.1242/dmm.049911). [[bioRxiv preprint]](https://www.biorxiv.org/content/10.1101/2022.06.15.496311)
 * ![Brown et al. 2023](/assets/images/Brown-Horton-paper.png){: .align-right width="200px"} **Brown TL&dagger;, Horton EC&dagger;, Craig EW, Goo CEA, Black EC,** Hewitt MN, **Yee NG,  Fan ET,** Raible DW, **Rasmussen JP**. Dermal appendage-dependent patterning of zebrafish *atoh1a+* Merkel cells. *eLife*. 2023 Jan 17; 12:[e85800](https://doi.org/10.7554/eLife.85800). [[bioRxiv preprint]](https://www.biorxiv.org/content/10.1101/2022.08.11.503570). &dagger; equal contributions
 * Vorselen D, Kamber RA, Labitigan RLD, van Loon AP, **Peterman E**, Delgado MK, Lin S, **Rasmussen JP**, Bassik MC, Theriot JA. Cell surface receptors TREM2, CD14 and integrin αMβ2 drive sinking engulfment in phosphatidylserine-mediated phagocytosis. *bioRxiv*. 2022 July 31; 
