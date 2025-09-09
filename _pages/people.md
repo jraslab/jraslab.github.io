@@ -65,10 +65,10 @@ graduate school, she worked in [Dr. Judith Kimble's](https://kimblelab.biochem.w
 
 | Name | Position in lab | Position after leaving |
 |:--------|:-------:|--------:|
-| Tanya Brown, Ph.D. <a href="https://twitter.com/TanyaLBrown_14"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i></a>  | NSF Postdoctoral Fellow | Scientific Director, [Tess Research Foundation](https://www.tessresearch.org/)   |
+| Tanya Brown, Ph.D. | NSF Postdoctoral Fellow | Scientific Director, [Tess Research Foundation](https://www.tessresearch.org/)   |
 | Rosalind Bump | Graduate Student | High school teacher |
 | Evan Craig | Graduate Student | Research Associate II, Seagen |
-| Christine Dien <a href="https://twitter.com/christine_dien"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i></a> | Undergraduate Researcher | Bioinformatics Analyst, [Setty lab](https://research.fhcrc.org/setty/en.html), Fred Hutch |
+| Christine Dien | Undergraduate Researcher | Bioinformatics Analyst, [Setty lab](https://research.fhcrc.org/setty/en.html), Fred Hutch |
 | Everett Fan  | Undergraduate Researcher | Research Tech, [Furlan lab](https://furlan-lab.github.io/index.html), Fred Hutch  |
 | Marisol Jimenez Garcia | BRIGHT-UP Researcher | Undergraduate, Johns Hopkins University |
 | Camille Goo | Research Tech | [Biomedical Sciences Graduate Program](https://www.cuanschutz.edu/graduate-programs/biomedical-sciences-program/home), CU–Anschutz |
