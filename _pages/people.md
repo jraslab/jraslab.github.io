@@ -57,9 +57,6 @@ graduate school, she worked in [Dr. Judith Kimble's](https://kimblelab.biochem.w
 ## Nina Shetty - Undergraduate Researcher
 ![Nina Shetty](/assets/images/Nina-web.png){: .align-left} Nina is an undergraduate student majoring in Biology at the University of Washington. She is excited to research Merkel cell development and function in the Rasmussen lab. Outside of the lab, Nina loves hiking, music, and reading. <br><br>
 
-## Sebastian Wojtowicz – [UW PREP](https://depts.washington.edu/uwprep/) Researcher
-![Sebastian Wojtowicz](/assets/images/Sebastian-web.jpg){: .align-left} Sebastian attended the University of Southern California for his bachelor’s degree, where he researched coral reef thermal stress ecology and Giant Kelp aquaculture bioengineering. He is now a NIH PREP fellow in UW’s Postbac program for biomedical sciences, researching axon regeneration within the skin of zebrafish. During his fellowship year, he hopes to work more with zebrafish and uncover new mechanisms and knowledge of sensory neuron repair. When not in the lab, Sebastian practices the violin and piano and occasionally composes for his never-to be-released album. During the weekends, he loves to hike while doing landscape and wildlife photography. Growing up in both Florida and Arizona, Sebastian is enjoying the Seattle weather but is nervous about the yearly phenomenon the locals call ‘winter’.
-
 ## Want to join the lab?
 **The lab is looking for enthusiastic and hard-working scientists at all levels! [Find out more](/join/).** 
 {: .notice--danger}
@@ -75,8 +72,9 @@ graduate school, she worked in [Dr. Judith Kimble's](https://kimblelab.biochem.w
 | Everett Fan  | Undergraduate Researcher | Research Tech, [Furlan lab](https://furlan-lab.github.io/index.html), Fred Hutch  |
 | Marisol Jimenez Garcia | BRIGHT-UP Researcher | Undergraduate, Johns Hopkins University |
 | Camille Goo | Research Tech | [Biomedical Sciences Graduate Program](https://www.cuanschutz.edu/graduate-programs/biomedical-sciences-program/home), CU–Anschutz |
-| Pearl Leon Guerrero-Mcinally | Undergraduate Researcher | TBD  |
+| Pearl Leon Guerrero-Mcinally | Undergraduate Researcher | [UW MCB](https://mcb-seattle.edu/) Graduate Program  |
 | Emma Horton | Research Tech | [Developmental & Stem Cell Biology Graduate Program](https://dscb.ucsf.edu/), UCSF |
-| Graham Robertson | Undergraduate Researcher | Research Tech, [Lev Silberstein lab](https://research.fredhutch.org/silberstein/en.html), Fred Hutch |
+| Graham Robertson | Undergraduate Researcher | Research Tech, [Silberstein lab](https://research.fredhutch.org/silberstein/en.html), Fred Hutch |
 | Ethan White   | Undergraduate Researcher |  Imaging Research Associate, [Altius Institute](http://www.altius.org/) |
+| Sebastian Wojtowicz | [UW PREP](https://depts.washington.edu/uwprep/) Researcher | TBD|
 | Nathaniel Yee   | Undergraduate Researcher |  Research Tech, [Maitra Lab](https://www.mdanderson.org/research/departments-labs-institutes/labs/maitra-laboratory.html), MD Anderson |
