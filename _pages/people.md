@@ -34,7 +34,7 @@ Affiliate member: [ISCRM](https://iscrm.uw.edu/) \| [Diabetes Research Center](h
 ## Hana Marie Farrell-Wakelin - Undergraduate Researcher
 ![Hana Marie Farrell-Wakelin](/assets/images/Hana-web.jpg){: .align-left} Hana is an undergraduate student studying Molecular, Cellular, and Developmental Biology at the University of Washington. She is excited to study wound repair mechanisms in zebrafish with the Rasmussen Lab. In her free time, Hana likes to ski, garden, and go hiking.<br><br>
 
-## Ahlan Ferdous - Postdoctoral Scholar
+## Ahlan Ferdous, PhD - Postdoctoral Scholar
 ![Ahlan Ferdous](/assets/images/Ahlan-web.jpg){: .align-left} Ahlan obtained her Ph.D. in Biochemistry from University of Wisconsin-Madison. In her
 graduate school, she worked in [Dr. Judith Kimble's](https://kimblelab.biochem.wisc.edu) lab where she used nematode *C. elegans* as an *in vivo* pioneer system to understand the molecular regulation of stem cells both at transcriptional and post-transcriptional levels. Her broad research interest lies in understanding the regulation of molecular pathways that orchestrate development. She is excited to learn more about molecular pathways that drive Merkel cell development. Outside of lab, Ahlan loves travelling and enjoys solving jigsaw puzzles, LEGOs and reading books.
 
